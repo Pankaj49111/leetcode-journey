@@ -1,0 +1,34 @@
+class Solution {
+    public int majorityElement(int[] nums) {
+        // int count = 0;
+        // int element = nums[0];
+
+        // for(int i=0; i < nums.length; i++){
+        //     if(count == 0){
+        //         element = nums[i];
+        //     }
+        //     if(nums[i] == element){
+        //         count++;
+        //     } else {
+        //         count--;
+        //     }
+        // }
+        // return element;
+
+
+
+
+
+
+
+    return Arrays.stream(nums)
+                .boxed()
+                .collect(Collectors.groupingBy(
+                    Function.identity(), Collectors.counting()))
+                .entrySet().stream()
+                .filter(e -> e.getValue() > nums.length/2)
+                .findAny()
+                .map(e -> e.getKey())
+                .get();
+    }
+}

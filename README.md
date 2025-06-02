@@ -10,6 +10,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -32,4 +34,8 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->

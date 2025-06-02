@@ -1,46 +1,37 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if (s.length() < t.length()) return "";
-
-        Map<Character, Integer> need = new HashMap<>();
+        int[] freq = new int[128];
         for (char c : t.toCharArray()) {
-            need.put(c, need.getOrDefault(c, 0) + 1);
+            freq[c]++;
         }
 
-        Map<Character, Integer> window = new HashMap<>();
-        int left = 0, right = 0;
-        int valid = 0; // count of characters that meet requirement
-        int start = 0, len = Integer.MAX_VALUE;
+        int i = 0, j = 0;
+        int minLen = Integer.MAX_VALUE; 
+        int minStart = 0; 
+        int required = t.length(); // Number of characters needed to form a valid window
 
-        while (right < s.length()) {
-            char c = s.charAt(right);
-            right++;
+        char[] chars = s.toCharArray();
 
-            if (need.containsKey(c)) {
-                window.put(c, window.getOrDefault(c, 0) + 1);
-                if (window.get(c).intValue() == need.get(c).intValue()) {
-                    valid++;
-                }
+        while (j < chars.length) {
+            if (freq[chars[j]]-- > 0) {
+                required--; // Needed character found
             }
 
-            // Shrink the window until it stops being valid
-            while (valid == need.size()) {
-                if (right - left < len) {
-                    start = left;
-                    len = right - left;
+            // Contract the window
+            while (required == 0) {
+                if ((j - i + 1) < minLen) {
+                    minLen = j - i + 1;
+                    minStart = i;
                 }
 
-                char d = s.charAt(left);
-                left++;
-                if (need.containsKey(d)) {
-                    if (window.get(d).intValue() == need.get(d).intValue()) {
-                        valid--;
-                    }
-                    window.put(d, window.get(d) - 1);
+                if (++freq[chars[i]] > 0) {
+                    required++; // A required character is now missing
                 }
+                i++;
             }
+            j++;
         }
 
-        return len == Integer.MAX_VALUE ? "" : s.substring(start, start + len);
+        return minLen == Integer.MAX_VALUE ? "" : s.substring(minStart, minStart + minLen);
     }
 }

@@ -10,4 +10,12 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
+## Array
+|  |
+| ------- |
+| [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
 <!---LeetCode Topics End-->

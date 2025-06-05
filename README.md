@@ -12,6 +12,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Array
 |  |
 | ------- |
@@ -38,4 +39,8 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->

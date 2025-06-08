@@ -1,15 +1,21 @@
 class Solution {
-    // class Trie{
-    //     Map<Integer, Trie> child = new HashMap<>();
-
-    // }
     public List<Integer> lexicalOrder(int n) {
         List<Integer> ls = new ArrayList<>();
-        for(int i=1; i<=n; i++){
-            ls.add(i);
-        }
+        int cnt = 1;
 
-        ls.sort((a,b) -> String.valueOf(a).compareTo(String.valueOf(b)));
+        for(int i=0; i<n; i++){
+            ls.add(cnt);
+            if(cnt*10 <= n){
+                cnt *= 10;
+            } else {
+                if(cnt >= n) cnt /= 10;
+
+                cnt++;
+                while(cnt % 10 == 0){
+                    cnt /= 10;
+                }
+            }
+        }
         return ls;
     }
 }

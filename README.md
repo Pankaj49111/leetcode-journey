@@ -54,4 +54,12 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

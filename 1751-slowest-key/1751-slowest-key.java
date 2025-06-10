@@ -1,29 +1,33 @@
 class Solution {
     public char slowestKey(int[] releaseTimes, String keysPressed) {
-        Map<Character, Integer> freq = new HashMap<>();
-        for(int i=0; i<keysPressed.length(); i++){
-            if(i>0){
-                int diff = releaseTimes[i] - releaseTimes[i-1];
-                int exVal = freq.getOrDefault(keysPressed.charAt(i),0);
-                int val = Math.max(exVal, diff);
-                freq.put(keysPressed.charAt(i), val);
-            } else {
-                int val = releaseTimes[0];
-                freq.put(keysPressed.charAt(0), val);
-            }
-        }
-
-        PriorityQueue<Map.Entry<Character, Integer>> heap = new PriorityQueue<>(
+        PriorityQueue<KeyPress> maxHeap = new PriorityQueue<>(
             (a, b) -> {
-                if (b.getValue().equals(a.getValue())) {
-                    return b.getKey() - a.getKey();
+                if (b.duration != a.duration) {
+                    return b.duration - a.duration;
+                } else {
+                    return b.key - a.key;
                 }
-                return b.getValue() - a.getValue();
             }
         );
 
-        heap.addAll(freq.entrySet());
-        // System.out.println(heap);
-        return heap.poll().getKey();
+        maxHeap.offer(new KeyPress(keysPressed.charAt(0), releaseTimes[0]));
+
+        for (int i = 1; i < keysPressed.length(); i++) {
+            int duration = releaseTimes[i] - releaseTimes[i - 1];
+            char key = keysPressed.charAt(i);
+            maxHeap.offer(new KeyPress(key, duration));
+        }
+
+        return maxHeap.peek().key;
+    }
+
+    private static class KeyPress {
+        char key;
+        int duration;
+
+        KeyPress(char key, int duration) {
+            this.key = key;
+            this.duration = duration;
+        }
     }
 }

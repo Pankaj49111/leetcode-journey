@@ -87,4 +87,16 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/1741-sort-array-by-increasing-frequency) |
+## Tree
+|  |
+| ------- |
+| [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 <!---LeetCode Topics End-->

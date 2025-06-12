@@ -15,45 +15,35 @@
  */
 class Solution {
     public boolean isEvenOddTree(TreeNode root) {
-        if(root == null) return true;
+        if (root == null) return true;
 
         Queue<TreeNode> q = new LinkedList<>();
-        boolean toggle = true;
-
         q.offer(root);
+        boolean evenLevel = true;
 
-        while(!q.isEmpty()){
-            List<Integer> ls = new ArrayList<>();
+        while (!q.isEmpty()) {
             int size = q.size();
-            while(size-->0){
+            int prev = evenLevel ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+
+            for (int i = 0; i < size; i++) {
                 TreeNode node = q.poll();
-                ls.add(node.val);
-                if(node.left != null) q.offer(node.left);
-                if(node.right != null) q.offer(node.right);
+                int val = node.val;
+
+                if (evenLevel && (val % 2 == 0)) return false;
+                if (!evenLevel && (val % 2 != 0)) return false; 
+
+                if (evenLevel && val <= prev) return false;
+                if (!evenLevel && val >= prev) return false;
+
+                prev = val;
+
+                if (node.left != null) q.offer(node.left);
+                if (node.right != null) q.offer(node.right);
             }
-            int lsize = ls.size();
-            if(lsize == 1){
-                if(toggle){
-                    if(ls.get(0) % 2 == 0) return false;
-                } else {
-                    if(ls.get(0) % 2 != 0) return false;
-                }
-            }
-            if(lsize>1){
-                if(toggle){
-                    for(int i=1; i<lsize; i++){
-                        if(ls.get(i-1) % 2 == 0 || ls.get(i) % 2 == 0) return false;
-                        if(ls.get(i-1)>=ls.get(i)) return false;
-                    }
-                } else {
-                    for(int i=1; i<lsize; i++){
-                        if(ls.get(i-1) % 2 != 0 || ls.get(i) % 2 != 0) return false;
-                        if(ls.get(i-1)<=ls.get(i)) return false;
-                    }
-                }
-            }
-            toggle = !toggle;
+
+            evenLevel = !evenLevel;
         }
+
         return true;
     }
 }

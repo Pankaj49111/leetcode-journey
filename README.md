@@ -24,10 +24,12 @@ This repository contains my accepted LeetCode Java submissions.
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1751-slowest-key](https://github.com/Pankaj49111/leetcode-journey/tree/master/1751-slowest-key) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Hash Table
 |  |
@@ -99,4 +101,8 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
+## Binary Search
+|  |
+| ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->

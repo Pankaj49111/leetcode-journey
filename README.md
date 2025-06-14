@@ -7,6 +7,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pankaj49111/leetcode-journey/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pankaj49111/leetcode-journey/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Hash Table

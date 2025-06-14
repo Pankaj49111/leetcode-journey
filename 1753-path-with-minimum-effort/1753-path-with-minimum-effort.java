@@ -1,47 +1,75 @@
 class Solution {
     public int minimumEffortPath(int[][] heights) {
-        int rows = heights.length;
-        int cols = heights[0].length;
+        int rows = heights.length, cols = heights[0].length;
+        int total = rows * cols;
 
-        // Directions: up, down, left, right
-        int[][] directions = {{0,1}, {1,0}, {0,-1}, {-1,0}};
+        // Build edge list: [weight, node1, node2]
+        List<int[]> edges = new ArrayList<>();
 
-        // minEffort[r][c] keeps the minimum effort to reach cell (r,c)
-        int[][] minEffort = new int[rows][cols];
-        for (int[] row : minEffort) {
-            Arrays.fill(row, Integer.MAX_VALUE);
-        }
-        minEffort[0][0] = 0;
+        int[][] directions = {{0, 1}, {1, 0}};
 
-        // PriorityQueue: {effort, row, col}
-        PriorityQueue<int[]> pq = new PriorityQueue<>(Comparator.comparingInt(a -> a[0]));
-        pq.offer(new int[]{0, 0, 0});  // {effort, x, y}
-
-        while (!pq.isEmpty()) {
-            int[] curr = pq.poll();
-            int effort = curr[0], x = curr[1], y = curr[2];
-
-            // If we've reached the bottom-right cell, return the effort
-            if (x == rows - 1 && y == cols - 1) {
-                return effort;
-            }
-
-            for (int[] dir : directions) {
-                int newX = x + dir[0], newY = y + dir[1];
-
-                if (newX >= 0 && newY >= 0 && newX < rows && newY < cols) {
-                    int heightDiff = Math.abs(heights[x][y] - heights[newX][newY]);
-                    int maxEffort = Math.max(effort, heightDiff);
-
-                    // If this path is better than any previous to newX,newY
-                    if (maxEffort < minEffort[newX][newY]) {
-                        minEffort[newX][newY] = maxEffort;
-                        pq.offer(new int[]{maxEffort, newX, newY});
+        for (int r = 0; r < rows; r++) {
+            for (int c = 0; c < cols; c++) {
+                int index = r * cols + c;
+                for (int[] dir : directions) {
+                    int nr = r + dir[0], nc = c + dir[1];
+                    if (nr < rows && nc < cols) {
+                        int nIndex = nr * cols + nc;
+                        int diff = Math.abs(heights[r][c] - heights[nr][nc]);
+                        edges.add(new int[]{diff, index, nIndex});
                     }
                 }
             }
         }
 
+        // Sort edges by effort (weight)
+        Collections.sort(edges, Comparator.comparingInt(a -> a[0]));
+
+        DSU dsu = new DSU(total);
+
+        for (int[] edge : edges) {
+            int weight = edge[0];
+            int u = edge[1], v = edge[2];
+            dsu.union(u, v);
+
+            if (dsu.find(0) == dsu.find(total - 1)) {
+                return weight;
+            }
+        }
+
         return 0;
+    }
+
+    static class DSU {
+        int[] parent, rank;
+
+        public DSU(int size) {
+            parent = new int[size];
+            rank = new int[size];
+            for (int i = 0; i < size; i++) {
+                parent[i] = i;
+                rank[i] = 1;
+            }
+        }
+
+        public int find(int x) {
+            if (parent[x] != x)
+                parent[x] = find(parent[x]);
+            return parent[x];
+        }
+
+        public void union(int x, int y) {
+            int rootX = find(x), rootY = find(y);
+            if (rootX == rootY) return;
+
+            if (rank[rootX] > rank[rootY]) {
+                parent[rootY] = rootX;
+            } else if (rank[rootX] < rank[rootY]) {
+                parent[rootX] = rootY;
+            } else {
+                parent[rootY] = rootX;
+                rank[rootX]++;
+            }
+        }
     }
 }

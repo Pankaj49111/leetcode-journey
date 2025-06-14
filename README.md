@@ -24,6 +24,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [1726-coordinate-with-maximum-network-quality](https://github.com/Pankaj49111/leetcode-journey/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1751-slowest-key](https://github.com/Pankaj49111/leetcode-journey/tree/master/1751-slowest-key) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -116,5 +117,6 @@ This repository contains my accepted LeetCode Java submissions.
 ## Enumeration
 |  |
 | ------- |
+| [1726-coordinate-with-maximum-network-quality](https://github.com/Pankaj49111/leetcode-journey/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
 <!---LeetCode Topics End-->

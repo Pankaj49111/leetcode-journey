@@ -1,7 +1,6 @@
 class Solution {
     public int maxDiff(int num) {
         String str = String.valueOf(num);
-
         char maxRep = ' ';
         for(char c: str.toCharArray()){
             if(c != '9'){
@@ -10,10 +9,7 @@ class Solution {
             }
         }
         String maxStr = (maxRep == ' ') ? str : str.replace(maxRep, '9');
-
-        char minRep = ' ';
-        char toRepWith = ' ';
-
+        char minRep = ' ', toRepWith = ' ';
         if(str.charAt(0) != '1'){
             minRep = str.charAt(0);
             toRepWith = '1';
@@ -27,9 +23,7 @@ class Solution {
                 }
             }
         }
-
         String minStr = (minRep == ' ') ? str : str.replace(minRep, toRepWith);
-
         return Integer.parseInt(maxStr) - Integer.parseInt(minStr);
     }
 }

@@ -56,6 +56,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Randomized
 |  |
 | ------- |
@@ -81,6 +82,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0744-network-delay-time](https://github.com/Pankaj49111/leetcode-journey/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Pankaj49111/leetcode-journey/tree/master/1753-path-with-minimum-effort) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
@@ -116,6 +118,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 ## Breadth-First Search
 |  |
@@ -129,6 +132,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 ## Binary Search
 |  |
@@ -176,4 +180,12 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->

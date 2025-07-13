@@ -1,17 +1,23 @@
 class Solution {
     public int matchPlayersAndTrainers(int[] players, int[] trainers) {
         Arrays.sort(players);
-        Arrays.sort(trainers);
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+        
+        for (int trainer : trainers) {
+            minHeap.offer(trainer);
+        }
 
-        int i = 0, j = 0, matches = 0;
+        int matches = 0;
 
-        while (i < players.length && j < trainers.length) {
-            if (players[i] <= trainers[j]) {
+        for (int player : players) {
+            // Remove all trainers who can't train this player
+            while (!minHeap.isEmpty() && minHeap.peek() < player) {
+                minHeap.poll();
+            }
+
+            if (!minHeap.isEmpty()) {
                 matches++;
-                i++;
-                j++;
-            } else {
-                j++;
+                minHeap.poll(); // assign the smallest trainer that can handle the player
             }
         }
 

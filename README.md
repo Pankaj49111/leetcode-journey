@@ -28,6 +28,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Pankaj49111/leetcode-journey/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -42,6 +43,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
+| [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pankaj49111/leetcode-journey/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -51,6 +53,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -86,6 +89,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/Pankaj49111/leetcode-journey/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
@@ -122,6 +126,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Tree
@@ -205,4 +210,8 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->

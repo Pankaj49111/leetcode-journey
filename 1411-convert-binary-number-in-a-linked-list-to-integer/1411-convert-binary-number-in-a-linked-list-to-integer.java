@@ -15,6 +15,6 @@ class Solution {
             sb.append(head.val);
             head = head.next;
         }
-        return (int)Long.parseLong(sb.toString(), 2);
+        return Integer.parseInt(sb.toString(), 2);
     }
 }

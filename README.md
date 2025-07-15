@@ -27,6 +27,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Pankaj49111/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
@@ -59,6 +60,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |

@@ -27,6 +27,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pankaj49111/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -47,6 +48,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pankaj49111/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -124,6 +126,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pankaj49111/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0143-reorder-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0143-reorder-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Recursion

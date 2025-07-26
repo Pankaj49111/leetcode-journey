@@ -114,6 +114,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/0098-validate-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0386-lexicographical-numbers) |
 | [0744-network-delay-time](https://github.com/Pankaj49111/leetcode-journey/tree/master/0744-network-delay-time) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -152,6 +153,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/0098-validate-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 ## Breadth-First Search
@@ -167,6 +169,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/0098-validate-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 ## Binary Search
@@ -224,6 +227,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/0098-validate-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |

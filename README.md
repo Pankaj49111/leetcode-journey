@@ -30,6 +30,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0001-two-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Pankaj49111/leetcode-journey/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Pankaj49111/leetcode-journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
@@ -132,6 +133,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pankaj49111/leetcode-journey/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Pankaj49111/leetcode-journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0344-reverse-string) |

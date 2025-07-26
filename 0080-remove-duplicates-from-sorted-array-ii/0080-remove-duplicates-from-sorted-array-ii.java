@@ -1,5 +1,6 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
+        if(nums.length <= 2) return nums.length;
         int idx = 1;
         int count = 1;
 
@@ -9,10 +10,8 @@ class Solution {
             } else {
                 count = 1;
             }
-
             if (count <= 2) {
-                nums[idx] = nums[i];
-                idx++;
+                nums[idx++] = nums[i];
             }
         }
         return idx;

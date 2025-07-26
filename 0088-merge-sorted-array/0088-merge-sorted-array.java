@@ -4,21 +4,12 @@ class Solution {
 
         while(l2 >= 0 && l1 >= 0 ){
             if(nums1[l1] > nums2[l2]){
-                nums1[l] = nums1[l1];
-                l--; l1--;
+                nums1[l--] = nums1[l1--];
             } else {
-                nums1[l] = nums2[l2];
-                l--; l2--;
+                nums1[l--] = nums2[l2--];
             }
         }
-        while(l2>=0) {
-            nums1[l] = nums2[l2];
-            l--; l2--;
-        }
-
-        while(l2>=0) {
-            nums1[l] = nums2[l1];
-            l--; l1--;
-        }
+        while(l2>=0) nums1[l--] = nums2[l2--];
+        while(l2>=0) nums1[l--] = nums1[l1--];
     }
 }

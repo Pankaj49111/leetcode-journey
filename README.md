@@ -30,6 +30,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0001-two-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Pankaj49111/leetcode-journey/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -130,6 +131,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pankaj49111/leetcode-journey/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0344-reverse-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -140,6 +142,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |

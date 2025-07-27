@@ -5,6 +5,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/0007-reverse-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |

@@ -1,13 +1,12 @@
 class Solution {
     public int reverse(int x) {
-        int res = 0;
-        boolean neg = x<0; 
-        String rev = new StringBuilder(String.valueOf(Math.abs(x))).reverse().toString();
-        try{
-            res = Integer.parseInt(rev);
-        } catch(Exception e){
-            return 0;
+        long rev=0;
+
+        while(x!=0){
+            rev= rev * 10 + x % 10;
+            x/=10;
         }
-        return neg ? -res : res;
+
+        return (rev<Integer.MIN_VALUE || rev > Integer.MAX_VALUE) ? 0: (int) rev;
     }
 }

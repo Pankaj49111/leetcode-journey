@@ -18,6 +18,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -71,6 +72,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0001-two-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -90,6 +92,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Union Find
 |  |
 | ------- |

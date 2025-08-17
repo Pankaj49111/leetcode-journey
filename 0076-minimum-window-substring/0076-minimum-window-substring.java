@@ -1,37 +1,47 @@
 class Solution {
     public String minWindow(String s, String t) {
-        int[] freq = new int[128];
+        if (s == null || s.length() < t.length()) return "";
+
+        Map<Character, Integer> freq = new HashMap<>();
         for (char c : t.toCharArray()) {
-            freq[c]++;
+            freq.put(c, freq.getOrDefault(c, 0) + 1);
         }
 
+        Map<Character, Integer> window = new HashMap<>();
         int i = 0, j = 0;
-        int minLen = Integer.MAX_VALUE; 
-        int minStart = 0; 
-        int required = t.length(); // Number of characters needed to form a valid window
+        int valid = 0;
 
-        char[] chars = s.toCharArray();
+        int start = 0, len = Integer.MAX_VALUE;
 
-        while (j < chars.length) {
-            if (freq[chars[j]]-- > 0) {
-                required--; // Needed character found
-            }
-
-            // Contract the window
-            while (required == 0) {
-                if ((j - i + 1) < minLen) {
-                    minLen = j - i + 1;
-                    minStart = i;
-                }
-
-                if (++freq[chars[i]] > 0) {
-                    required++; // A required character is now missing
-                }
-                i++;
-            }
+        while (j < s.length()) {
+            char c = s.charAt(j);
             j++;
+            
+            if (freq.containsKey(c)) {
+                window.put(c, window.getOrDefault(c, 0) + 1);
+                if (window.get(c).intValue() == freq.get(c).intValue()) {
+                    valid++;
+                }
+            }
+
+            while (valid == freq.size()) {
+                if (j - i < len) {
+                    start = i;
+                    len = j - i;
+                }
+                
+                char d = s.charAt(i);
+                i++;
+                
+                if (freq.containsKey(d)) {
+                    if (window.get(d).intValue() == freq.get(d).intValue()) {
+                        valid--;
+                    }
+                    window.put(d, window.get(d) - 1);
+                }
+            }
         }
 
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(minStart, minStart + minLen);
+        return len == Integer.MAX_VALUE ? "" : s.substring(start, start + len);
     }
 }

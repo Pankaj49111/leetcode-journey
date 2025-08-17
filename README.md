@@ -9,6 +9,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0342-power-of-four](https://github.com/Pankaj49111/leetcode-journey/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/1448-maximum-69-number) |
@@ -108,6 +109,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
+| [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
@@ -220,6 +222,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Pankaj49111/leetcode-journey/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -312,4 +315,8 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->

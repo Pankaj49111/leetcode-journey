@@ -15,6 +15,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1448-maximum-69-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1728-fancy-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/1728-fancy-sequence) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pankaj49111/leetcode-journey/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## String
 |  |
@@ -64,6 +65,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1751-slowest-key](https://github.com/Pankaj49111/leetcode-journey/tree/master/1751-slowest-key) |
 | [1753-path-with-minimum-effort](https://github.com/Pankaj49111/leetcode-journey/tree/master/1753-path-with-minimum-effort) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |

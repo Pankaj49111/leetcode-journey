@@ -28,6 +28,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Pankaj49111/leetcode-journey/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -99,6 +100,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0940-fruit-into-baskets) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -126,6 +128,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 ## Union Find
 |  |
 | ------- |

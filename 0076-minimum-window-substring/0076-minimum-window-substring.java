@@ -1,47 +1,46 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if (s == null || s.length() < t.length()) return "";
-
-        Map<Character, Integer> freq = new HashMap<>();
-        for (char c : t.toCharArray()) {
-            freq.put(c, freq.getOrDefault(c, 0) + 1);
+        if (s.length() < t.length()) {
+            return "";
         }
 
-        Map<Character, Integer> window = new HashMap<>();
-        int i = 0, j = 0;
-        int valid = 0;
+        Map<Character, Integer> charCount = new HashMap<>();
+        for (char ch : t.toCharArray()) {
+            charCount.put(ch, charCount.getOrDefault(ch, 0) + 1);
+        }
 
-        int start = 0, len = Integer.MAX_VALUE;
+        int targetCharsRemaining = t.length();
+        int[] minWindow = {0, Integer.MAX_VALUE};
+        int startIndex = 0;
 
-        while (j < s.length()) {
-            char c = s.charAt(j);
-            j++;
-            
-            if (freq.containsKey(c)) {
-                window.put(c, window.getOrDefault(c, 0) + 1);
-                if (window.get(c).intValue() == freq.get(c).intValue()) {
-                    valid++;
-                }
+        for (int endIndex = 0; endIndex < s.length(); endIndex++) {
+            char ch = s.charAt(endIndex);
+            if (charCount.containsKey(ch) && charCount.get(ch) > 0) {
+                targetCharsRemaining--;
             }
+            charCount.put(ch, charCount.getOrDefault(ch, 0) - 1);
 
-            while (valid == freq.size()) {
-                if (j - i < len) {
-                    start = i;
-                    len = j - i;
-                }
-                
-                char d = s.charAt(i);
-                i++;
-                
-                if (freq.containsKey(d)) {
-                    if (window.get(d).intValue() == freq.get(d).intValue()) {
-                        valid--;
+            if (targetCharsRemaining == 0) {
+                while (true) {
+                    char charAtStart = s.charAt(startIndex);
+                    if (charCount.containsKey(charAtStart) && charCount.get(charAtStart) == 0) {
+                        break;
                     }
-                    window.put(d, window.get(d) - 1);
+                    charCount.put(charAtStart, charCount.getOrDefault(charAtStart, 0) + 1);
+                    startIndex++;
                 }
+
+                if (endIndex - startIndex < minWindow[1] - minWindow[0]) {
+                    minWindow[0] = startIndex;
+                    minWindow[1] = endIndex;
+                }
+
+                charCount.put(s.charAt(startIndex), charCount.getOrDefault(s.charAt(startIndex), 0) + 1);
+                targetCharsRemaining++;
+                startIndex++;
             }
         }
 
-        return len == Integer.MAX_VALUE ? "" : s.substring(start, start + len);
+        return minWindow[1] >= s.length() ? "" : s.substring(minWindow[0], minWindow[1] + 1);        
     }
 }

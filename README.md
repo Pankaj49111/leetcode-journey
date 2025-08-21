@@ -48,6 +48,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0239-sliding-window-maximum) |
@@ -246,6 +247,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pankaj49111/leetcode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |

@@ -212,11 +212,13 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pankaj49111/leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pankaj49111/leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0744-network-delay-time](https://github.com/Pankaj49111/leetcode-journey/tree/master/0744-network-delay-time) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -228,6 +230,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pankaj49111/leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 ## Binary Search

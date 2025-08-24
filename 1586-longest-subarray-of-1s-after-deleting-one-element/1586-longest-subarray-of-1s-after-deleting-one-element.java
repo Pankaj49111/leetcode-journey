@@ -1,21 +1,21 @@
 class Solution {
     public int longestSubarray(int[] nums) {
-        int n = nums.length;
-        if(n == 1) return 0;
+        int dp1 = 0;  // streak of 1s with no deletion yet
+        int dp0 = 0;  // streak of 1s after one deletion
+        int max = 0;
 
-        int i=0, j=0, max=0, count=0;
-        while(j<n){
-            if(nums[j] == 0) count++;
-
-            while(count>1){
-                if(nums[i] == 0){
-                    count--;
-                }
-                i++;
+        for (int num : nums) {
+            if (num == 1) {
+                dp1++;
+                dp0++;
+            } else {
+                dp0 = dp1;  // simulate deletion of this 0
+                dp1 = 0;
             }
-            max = Math.max(max, j-i);
-            j++;
+            max = Math.max(max, dp0);
         }
-        return max;
+
+        // Handle case when all are 1s → must delete one
+        return max == nums.length ? max - 1 : max;
     }
 }

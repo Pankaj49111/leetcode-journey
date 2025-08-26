@@ -170,6 +170,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/0098-validate-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0386-lexicographical-numbers) |
 | [0744-network-delay-time](https://github.com/Pankaj49111/leetcode-journey/tree/master/0744-network-delay-time) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -217,6 +218,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pankaj49111/leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 ## Breadth-First Search
@@ -235,6 +237,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pankaj49111/leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 ## Binary Search
@@ -251,6 +254,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pankaj49111/leetcode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |

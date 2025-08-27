@@ -6,6 +6,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0342-power-of-four](https://github.com/Pankaj49111/leetcode-journey/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
@@ -253,6 +254,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
@@ -371,4 +373,8 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0432-all-oone-data-structure) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

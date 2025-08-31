@@ -47,6 +47,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0027-remove-element](https://github.com/Pankaj49111/leetcode-journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pankaj49111/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Pankaj49111/leetcode-journey/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Pankaj49111/leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0088-merge-sorted-array) |
@@ -101,6 +102,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0001-two-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Pankaj49111/leetcode-journey/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Pankaj49111/leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj49111/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -280,6 +282,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pankaj49111/leetcode-journey/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Pankaj49111/leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pankaj49111/leetcode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -375,6 +378,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Pankaj49111/leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0679-24-game) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/2189-maximum-path-quality-of-a-graph) |

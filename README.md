@@ -295,6 +295,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/Pankaj49111/leetcode-journey/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Matrix
@@ -373,6 +374,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
 | [2529-range-product-queries-of-powers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Segment Tree
 |  |
 | ------- |
@@ -420,4 +422,8 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [2317-count-collisions-on-a-road](https://github.com/Pankaj49111/leetcode-journey/tree/master/2317-count-collisions-on-a-road) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->

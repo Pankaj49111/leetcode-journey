@@ -10,6 +10,5 @@ class Solution {
             }
         }
         while(l2 >= 0) nums1[l--] = nums2[l2--];
-        while(l1 >= 0) nums1[l--] = nums1[l1--];
     }
 }

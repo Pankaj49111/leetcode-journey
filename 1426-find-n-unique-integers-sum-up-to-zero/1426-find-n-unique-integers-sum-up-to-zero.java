@@ -1,14 +1,14 @@
 class Solution {
     public int[] sumZero(int n) {
         int[] result = new int[n];
-        int index = 0;
-        
-        for (int i = 1; i <= n / 2; i++) {
-            result[index++] = -i;
-            result[index++] = i;
-        }
-        if (n % 2 != 0) {
-            result[index] = 0;
+        int value = -(n / 2);
+
+        for (int i = 0; i < n; i++) {
+            // If n is even, we skip 0 to avoid duplicate zero
+            if (n % 2 == 0 && value == 0) {
+                value++;
+            }
+            result[i] = value++;
         }
 
         return result;

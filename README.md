@@ -28,6 +28,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Pankaj49111/leetcode-journey/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
@@ -296,6 +297,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Pankaj49111/leetcode-journey/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/Pankaj49111/leetcode-journey/tree/master/0322-coin-change) |

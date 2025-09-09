@@ -307,6 +307,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pankaj49111/leetcode-journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Pankaj49111/leetcode-journey/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pankaj49111/leetcode-journey/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Enumeration
@@ -412,6 +413,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -444,6 +446,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [2317-count-collisions-on-a-road](https://github.com/Pankaj49111/leetcode-journey/tree/master/2317-count-collisions-on-a-road) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Brainteaser
 |  |
 | ------- |

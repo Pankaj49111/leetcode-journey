@@ -43,6 +43,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/Pankaj49111/leetcode-journey/tree/master/1751-slowest-key) |
 | [2317-count-collisions-on-a-road](https://github.com/Pankaj49111/leetcode-journey/tree/master/2317-count-collisions-on-a-road) |
+| [2887-sort-vowels-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Pankaj49111/leetcode-journey/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Array
@@ -251,6 +252,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2887-sort-vowels-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Tree

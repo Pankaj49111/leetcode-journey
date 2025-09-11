@@ -25,11 +25,6 @@ class Solution {
             sb.append(c);
         }
 
-        String result = sb.toString();
-        // System.out.println(result);
-        // while(!cpq.isEmpty()){
-        //     System.out.println(cpq.poll()+" : "+ipq.poll());
-        // }
-        return result;
+        return sb.toString();
     }
 }

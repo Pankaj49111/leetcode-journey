@@ -1,21 +1,27 @@
 class Solution {
     public int maxFreqSum(String s) {
-        String vowel = "aeiou";
+        int[] freq = new int[26];
 
-        Map<Character, Integer> vm = new HashMap<>();
-        Map<Character, Integer> cm = new HashMap<>();
+        for (char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
+        }
 
-        int mv=0, mc=0;
+        int maxVowel = 0;
+        int maxConsonant = 0;
 
-        for(char ch: s.toCharArray()){
-            if(vowel.indexOf(ch) != -1){
-                vm.put(ch, vm.getOrDefault(ch, 0)+1);
-                mv = Math.max(mv, vm.get(ch));
+        for (int i = 0; i < 26; i++) {
+            char ch = (char) (i + 'a');
+            if (isVowel(ch)) {
+                maxVowel = Math.max(maxVowel, freq[i]);
             } else {
-                cm.put(ch, cm.getOrDefault(ch, 0)+1);
-                mc = Math.max(mc, cm.get(ch));
+                maxConsonant = Math.max(maxConsonant, freq[i]);
             }
         }
-        return (mv+mc);
+
+        return maxVowel + maxConsonant;
+    }
+
+    private boolean isVowel(char ch) {
+        return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
     }
 }

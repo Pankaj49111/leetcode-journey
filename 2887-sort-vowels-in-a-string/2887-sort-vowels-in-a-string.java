@@ -1,30 +1,24 @@
 class Solution {
     public String sortVowels(String s) {
-        Queue<Character> cpq = new PriorityQueue<>();
-        Queue<Integer> ipq = new PriorityQueue<>();
-
-        String vowels = "aeiouAEIOU";
-        for(int i=0; i<s.length(); i++){
-            if(vowels.indexOf(s.charAt(i)) != -1){
-                cpq.offer(s.charAt(i));
-                ipq.add(i);
+        List<Character> vowels = new ArrayList<>();
+        for (char c : s.toCharArray()) {
+            if ("AEIOUaeiou".indexOf(c) != -1) {
+                vowels.add(c);
             }
         }
-        List<Character> ls = new ArrayList<>();
 
-        for(int i=0; i<s.length(); i++){
-            if(!ipq.isEmpty() && i == ipq.peek()){
-                ls.add(ipq.poll(), cpq.poll());
+        Collections.sort(vowels);
+
+        StringBuilder result = new StringBuilder();
+        int vIndex = 0;
+        for (char c : s.toCharArray()) {
+            if ("AEIOUaeiou".indexOf(c) != -1) {
+                result.append(vowels.get(vIndex++));
             } else {
-                ls.add(s.charAt(i));
+                result.append(c);
             }
         }
 
-        StringBuilder sb = new StringBuilder();
-        for (Character c : ls) {
-            sb.append(c);
-        }
-
-        return sb.toString();
+        return result.toString();
     }
 }

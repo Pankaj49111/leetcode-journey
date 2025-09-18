@@ -1,43 +1,70 @@
 class TaskManager {
-    private PriorityQueue<int[]> pq;
-    private Map<Integer,Integer> taskPriority;
-    private Map<Integer,Integer> taskOwner;
+    class Task {
+        int taskId;
+        int priority;
+
+        Task(int taskId, int priority) {
+            this.taskId = taskId;
+            this.priority = priority;
+        }
+    }
+
+    private TreeMap<Task, Integer> taskQueue;
+    private Map<Integer, Integer> taskPriorityMap;
 
     public TaskManager(List<List<Integer>> tasks) {
-        pq = new PriorityQueue<>((a,b) -> {
-            if (b[0] != a[0]) return b[0] - a[0];
-            return b[1] - a[1];
+        taskQueue = new TreeMap<>((a, b) -> {
+            if (a.priority != b.priority) {
+                return b.priority - a.priority; // higher priority first
+            }
+            return b.taskId - a.taskId; // if same priority, larger taskId first
         });
-        taskPriority = new HashMap<>();
-        taskOwner = new HashMap<>();
-        for (List<Integer> t : tasks) add(t.get(0), t.get(1), t.get(2));
+
+        taskPriorityMap = new HashMap<>();
+
+        for (List<Integer> task : tasks) {
+            int userId = task.get(0);
+            int taskId = task.get(1);
+            int priority = task.get(2);
+
+            taskQueue.put(new Task(taskId, priority), userId);
+            taskPriorityMap.put(taskId, priority);
+        }
     }
 
     public void add(int userId, int taskId, int priority) {
-        pq.add(new int[]{priority, taskId});
-        taskPriority.put(taskId, priority);
-        taskOwner.put(taskId, userId);
+        taskQueue.put(new Task(taskId, priority), userId);
+        taskPriorityMap.put(taskId, priority);
     }
 
     public void edit(int taskId, int newPriority) {
-        pq.add(new int[]{newPriority, taskId});
-        taskPriority.put(taskId, newPriority);
+        int oldPriority = taskPriorityMap.get(taskId);
+        Task oldTask = new Task(taskId, oldPriority);
+        int userId = taskQueue.get(oldTask);
+
+        taskQueue.remove(oldTask);
+        taskQueue.put(new Task(taskId, newPriority), userId);
+        taskPriorityMap.put(taskId, newPriority);
     }
 
     public void rmv(int taskId) {
-        taskPriority.put(taskId, -1);
+        if (!taskPriorityMap.containsKey(taskId)) return;
+        int priority = taskPriorityMap.get(taskId);
+
+        taskQueue.remove(new Task(taskId, priority));
+        taskPriorityMap.remove(taskId);
     }
 
     public int execTop() {
-        while (!pq.isEmpty()) {
-            int[] t = pq.poll();
-            int p = t[0], id = t[1];
-            if (taskPriority.getOrDefault(id, -2) == p) {
-                taskPriority.put(id, -1);
-                return taskOwner.getOrDefault(id, -1);
-            }
-        }
-        return -1;
+        if (taskQueue.isEmpty()) return -1;
+
+        Task topTask = taskQueue.firstKey();
+        int userId = taskQueue.get(topTask);
+
+        taskQueue.remove(topTask);
+        taskPriorityMap.remove(topTask.taskId);
+
+        return userId;
     }
 }
 

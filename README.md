@@ -80,6 +80,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0605-can-place-flowers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -323,6 +324,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/Pankaj49111/leetcode-journey/tree/master/0322-coin-change) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pankaj49111/leetcode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -417,6 +419,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Pankaj49111/leetcode-journey/tree/master/0342-power-of-four) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
 | [2529-range-product-queries-of-powers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2529-range-product-queries-of-powers) |
@@ -456,6 +459,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0040-combination-sum-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Doubly-Linked List
@@ -466,6 +470,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pankaj49111/leetcode-journey/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Simulation
 |  |
@@ -481,4 +486,8 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3462-vowels-game-in-a-string) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->

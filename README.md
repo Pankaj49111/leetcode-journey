@@ -50,6 +50,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2317-count-collisions-on-a-road](https://github.com/Pankaj49111/leetcode-journey/tree/master/2317-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/2887-sort-vowels-in-a-string) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3396-valid-word](https://github.com/Pankaj49111/leetcode-journey/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3462-vowels-game-in-a-string) |
@@ -116,6 +117,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pankaj49111/leetcode-journey/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -376,12 +378,14 @@ This repository contains my accepted LeetCode Java submissions.
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Pankaj49111/leetcode-journey/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Monotonic Stack
 |  |
 | ------- |

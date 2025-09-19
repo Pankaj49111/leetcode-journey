@@ -1,27 +1,33 @@
 class Spreadsheet {
-    Map<String,Integer> map;
+    int[][] arr;
     public Spreadsheet(int rows) {
-        map = new HashMap<>();
+        arr = new int[rows][26];
     }
     
     public void setCell(String cell, int value) {
-        map.put(cell, value);
+        int col = cell.charAt(0) - 'A';
+        int row = Integer.parseInt(cell.substring(1)) - 1;
+        arr[row][col] = value;
     }
     
     public void resetCell(String cell) {
-        map.remove(cell);
+        int col = cell.charAt(0) - 'A';
+        int row = Integer.parseInt(cell.substring(1)) - 1;
+        arr[row][col] = 0;
     }
     
     public int getValue(String formula) {
-        String form = formula.replace("=","");
-        
-        String[] arr = form.split("\\+");
-        int res = 0;
-        for(String val: arr){
-            if(Character.isLetter(val.charAt(0))){
-                res += map.get(val) != null ? map.get(val) : 0;
+        formula = formula.replace("=", "");
+        String[] form = formula.split("\\+");
+        int res=0;
+        for(String cell: form){
+            cell = cell.toUpperCase();
+            if(Character.isLetter(cell.charAt(0))){
+                int col = cell.charAt(0) - 'A';
+                int row = Integer.parseInt(cell.substring(1)) - 1;
+                res += arr[row][col];
             } else {
-                res += Integer.parseInt(val);
+                res += Integer.parseInt(cell);
             }
         }
         return res;

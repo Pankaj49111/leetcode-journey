@@ -123,6 +123,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pankaj49111/leetcode-journey/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/Pankaj49111/leetcode-journey/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Pankaj49111/leetcode-journey/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -164,6 +165,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3678-design-task-manager](https://github.com/Pankaj49111/leetcode-journey/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Pankaj49111/leetcode-journey/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Pankaj49111/leetcode-journey/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pankaj49111/leetcode-journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
@@ -175,6 +177,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2429-design-a-food-rating-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Pankaj49111/leetcode-journey/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Pankaj49111/leetcode-journey/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Pankaj49111/leetcode-journey/tree/master/3827-implement-router) |
 ## Randomized
 |  |
 | ------- |
@@ -328,6 +331,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1046-max-consecutive-ones-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/Pankaj49111/leetcode-journey/tree/master/1753-path-with-minimum-effort) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3827-implement-router](https://github.com/Pankaj49111/leetcode-journey/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -430,6 +434,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Pankaj49111/leetcode-journey/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [2429-design-a-food-rating-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Pankaj49111/leetcode-journey/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Pankaj49111/leetcode-journey/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -457,6 +462,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0239-sliding-window-maximum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/Pankaj49111/leetcode-journey/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |

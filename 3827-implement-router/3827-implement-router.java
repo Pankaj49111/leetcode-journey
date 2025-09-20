@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Router {
     private final int size;
     private final Map<Integer, List<Integer>> counts;
@@ -20,7 +18,7 @@ class Router {
             return false;
 
         if (packets.size() >= size)
-            forwardPacket();  // Evict oldest
+            forwardPacket();
 
         packets.put(key, new int[]{source, destination, timestamp});
         queue.offer(key);
@@ -43,7 +41,7 @@ class Router {
 
         final int destination = packet[1];
         final List<Integer> list = counts.get(destination);
-        list.remove(0);  // Remove oldest timestamp for this destination
+        list.remove(0);
 
         return packet;
     }

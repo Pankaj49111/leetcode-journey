@@ -1,21 +1,23 @@
 class Solution {
     public int maxFrequencyElements(int[] nums) {
         Map<Integer, Integer> freqMap = new HashMap<>();
-        int maxFreq = 0;
-
         for (int num : nums) {
-            int freq = freqMap.getOrDefault(num, 0) + 1;
-            freqMap.put(num, freq);
-            maxFreq = Math.max(maxFreq, freq);
+            freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
         }
 
-        int total = 0;
-        for (int freq : freqMap.values()) {
-            if (freq == maxFreq) {
-                total += freq;
-            }
+        PriorityQueue<Map.Entry<Integer, Integer>> pq = new PriorityQueue<>(
+            (a, b) -> b.getValue() - a.getValue()
+        );
+
+        pq.addAll(freqMap.entrySet());
+
+        int maxFreq = pq.peek().getValue();
+        int sum = 0;
+
+        while (!pq.isEmpty() && pq.peek().getValue() == maxFreq) {
+            sum += pq.poll().getValue();
         }
 
-        return total;
+        return sum;
     }
 }

@@ -1,30 +1,33 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         List<List<Integer>> graph = new ArrayList<>();
+        int[] inDegree = new int[numCourses];
+
+        // Build graph and indegree
         for (int i = 0; i < numCourses; i++) graph.add(new ArrayList<>());
         for (int[] pre : prerequisites) {
             graph.get(pre[1]).add(pre[0]);
+            inDegree[pre[0]]++;
+        }
+        
+        Queue<Integer> queue = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++) {
+            if (inDegree[i] == 0) queue.offer(i);
         }
 
-        int[] state = new int[numCourses]; // 0=unvisited,1=visiting,2=visited
+        int taken = 0; // count of courses we can take
+        while (!queue.isEmpty()) {
+            int course = queue.poll();
+            taken++;
 
-        for (int i = 0; i < numCourses; i++) {
-            if (state[i] == 0) {
-                if (hasCycle(graph, state, i)) return false;
+            for (int nei : graph.get(course)) {
+                inDegree[nei]--;
+                if (inDegree[nei] == 0) {
+                    queue.offer(nei);
+                }
             }
         }
-        return true;
-    }
 
-    private boolean hasCycle(List<List<Integer>> graph, int[] state, int node) {
-        if (state[node] == 1) return true;   // found cycle
-        if (state[node] == 2) return false;  // already processed
-
-        state[node] = 1; // mark as visiting
-        for (int nei : graph.get(node)) {
-            if (hasCycle(graph, state, nei)) return true;
-        }
-        state[node] = 2; // mark as done
-        return false;
+        return taken == numCourses;
     }
 }

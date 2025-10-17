@@ -53,6 +53,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2317-count-collisions-on-a-road](https://github.com/Pankaj49111/leetcode-journey/tree/master/2317-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/2887-sort-vowels-in-a-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3396-valid-word](https://github.com/Pankaj49111/leetcode-journey/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -365,6 +366,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Pankaj49111/leetcode-journey/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pankaj49111/leetcode-journey/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Enumeration
@@ -465,6 +467,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
 | [2529-range-product-queries-of-powers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Segment Tree
 |  |
@@ -533,6 +536,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Number Theory
 |  |
 | ------- |

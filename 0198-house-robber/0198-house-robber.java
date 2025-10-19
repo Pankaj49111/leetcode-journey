@@ -3,16 +3,15 @@ class Solution {
         int n = nums.length;
         if (n == 0) return 0;
         if (n == 1) return nums[0];
-
-        int prev2 = 0;       // dp[i-2]
-        int prev1 = 0;       // dp[i-1]
-        int curr = 0;
-
-        for (int x : nums) {
-            curr = Math.max(prev1, prev2 + x);
-            prev2 = prev1;
-            prev1 = curr;
+        
+        int[] dp = new int[n + 2]; // +2 to avoid out-of-bound for dp[i+2]
+        
+        for (int i = n - 1; i >= 0; i--) {
+            int take = nums[i] + dp[i + 2];
+            int skip = dp[i + 1];
+            dp[i] = Math.max(take, skip);
         }
-        return curr;
+        
+        return dp[0];
     }
 }

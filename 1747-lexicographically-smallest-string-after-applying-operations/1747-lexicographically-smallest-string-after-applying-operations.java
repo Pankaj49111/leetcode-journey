@@ -21,12 +21,10 @@ class Solution {
     }
 
     String indi(String curr, int a){
-        int i=1;
         char[] arr = curr.toCharArray();
-        while(i%2 != 0 && i<arr.length){
+        for (int i = 1; i < arr.length; i += 2) {
             int d = arr[i] - '0';
             arr[i] = (char)('0' + (d+a)%10);
-            i+=2;
         }
         return new String(arr);
     }

@@ -41,6 +41,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0344-reverse-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj49111/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/Pankaj49111/leetcode-journey/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -382,6 +383,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Pankaj49111/leetcode-journey/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Pankaj49111/leetcode-journey/tree/master/0322-coin-change) |
+| [0583-delete-operation-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |

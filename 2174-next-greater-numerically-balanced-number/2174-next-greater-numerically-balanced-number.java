@@ -1,30 +1,23 @@
 class Solution {
     public int nextBeautifulNumber(int n) {
-        List<Integer> list = new ArrayList<>();
-        backtrack(0, new int[10], list);
-        Collections.sort(list);
-        for (int num : list) {
-            if (num > n) return num;
+        for (int i = n + 1; i <= 1224444; i++) {
+            if (isBalance(i)) {
+                return i;
+            }
         }
         return -1;
     }
-    private void backtrack(long num, int[] count, List<Integer> list) {
-        if (num > 0 && isBeautiful(count)) {
-            list.add((int) num);
-        }
-        if (num > 1224444) return;
 
-        for (int d = 1; d <= 7; d++) {
-            if (count[d] < d) {
-                count[d]++;
-                backtrack(num * 10 + d, count, list);
-                count[d]--;
-            }
+    private boolean isBalance(int x) {
+        int[] count = new int[10];
+        while (x > 0) {
+            count[x % 10]++;
+            x /= 10;
         }
-    }
-    private boolean isBeautiful(int[] count) {
-        for (int d = 1; d <= 7; d++) {
-            if (count[d] != 0 && count[d] != d) return false;
+        for (int d = 0; d < 10; ++d) {
+            if (count[d] > 0 && count[d] != d) {
+                return false;
+            }
         }
         return true;
     }

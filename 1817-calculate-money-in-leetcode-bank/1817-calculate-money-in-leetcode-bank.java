@@ -1,6 +1,12 @@
 class Solution {
-    public int totalMoney(int n) {
-        final int q=n/7, r=n%7;
-        return 28*q+7*q*(q-1)/2+(2*q+r+1)*r/2;
+    int triSum(int n) {
+        return (n * (n + 1)) >> 1;
+    }
+
+    public int totalMoney(int days) {
+        int nWeeks = days / 7;
+        int rDays = days % 7;
+
+        return triSum(days) - 42 * triSum(nWeeks - 1) - 6 * nWeeks * rDays;
     }
 }

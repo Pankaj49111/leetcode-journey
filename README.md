@@ -19,6 +19,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1448-maximum-69-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1728-fancy-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/1728-fancy-sequence) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Pankaj49111/leetcode-journey/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/2432-number-of-zero-filled-subarrays) |

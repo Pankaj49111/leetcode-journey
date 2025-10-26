@@ -1,36 +1,32 @@
 class Bank {
-    Map<Integer, Long> accBal;
-    public Bank(long[] balance) {
-        accBal = new HashMap<>();
+    long[] balance;
+    int n;
 
-        for(int i=0; i<balance.length; i++){
-            accBal.put(i+1, balance[i]);
-        }
+    public Bank(long[] balance) {
+        this.balance = balance;
+        this.n = balance.length;
     }
     
     public boolean transfer(int account1, int account2, long money) {
-        if(!accBal.containsKey(account1) || !accBal.containsKey(account2)) return false;
-        long bal = accBal.get(account1);
-        if(bal < money) return false;
+        if(account1 <= 0 || account2 <= 0) return false;
+        if(account1 > n || account2 > n) return false;
 
-        accBal.put(account1, bal-money);
-        accBal.put(account2, accBal.get(account2)+money);
+        if(balance[account1 - 1] < money) return false;
+        balance[account1 - 1] -= money;
+        balance[account2 - 1] += money;
         return true;
     }
     
     public boolean deposit(int account, long money) {
-        if(!accBal.containsKey(account)) return false;
-        accBal.put(account, accBal.get(account)+money);
+        if(account <= 0 || account > n) return false;
+        balance[account - 1] += money;
         return true;
     }
     
     public boolean withdraw(int account, long money) {
-        if(!accBal.containsKey(account)) return false;
-
-        long bal = accBal.get(account);
-        if(bal < money) return false;
-        
-        accBal.put(account, bal-money);
+        if(account <= 0 || account > n) return false;
+        if( balance[account - 1] < money) return false;
+        balance[account - 1] -= money;
         return true;
     }
 }

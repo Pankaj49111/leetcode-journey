@@ -111,6 +111,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Pankaj49111/leetcode-journey/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pankaj49111/leetcode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Pankaj49111/leetcode-journey/tree/master/1479-construct-target-array-with-multiple-sums) |
@@ -190,6 +191,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0940-fruit-into-baskets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/Pankaj49111/leetcode-journey/tree/master/0947-online-election) |
 | [1006-vowel-spellchecker](https://github.com/Pankaj49111/leetcode-journey/tree/master/1006-vowel-spellchecker) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Pankaj49111/leetcode-journey/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pankaj49111/leetcode-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -496,6 +498,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Pankaj49111/leetcode-journey/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pankaj49111/leetcode-journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |

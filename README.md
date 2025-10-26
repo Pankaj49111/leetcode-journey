@@ -109,6 +109,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1006-vowel-spellchecker](https://github.com/Pankaj49111/leetcode-journey/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
+| [1036-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pankaj49111/leetcode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -360,6 +361,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0207-course-schedule](https://github.com/Pankaj49111/leetcode-journey/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Pankaj49111/leetcode-journey/tree/master/0322-coin-change) |
 | [0744-network-delay-time](https://github.com/Pankaj49111/leetcode-journey/tree/master/0744-network-delay-time) |
+| [1036-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
@@ -434,6 +436,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0200-number-of-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
+| [1036-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pankaj49111/leetcode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Pankaj49111/leetcode-journey/tree/master/1753-path-with-minimum-effort) |

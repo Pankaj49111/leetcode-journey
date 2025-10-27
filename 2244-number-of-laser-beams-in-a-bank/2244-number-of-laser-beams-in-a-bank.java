@@ -4,7 +4,7 @@ class Solution {
         for(String b: bank) {
             int currCount=0;
             for(char c: b.toCharArray()){
-                if(c-'0' == 1) currCount++;
+                if(c == '1') currCount++;
             }
             if(currCount > 0) {
                 sum += prevCount*currCount;

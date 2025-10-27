@@ -131,6 +131,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1834-minimum-number-of-people-to-teach](https://github.com/Pankaj49111/leetcode-journey/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pankaj49111/leetcode-journey/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2023-design-movie-rental-system) |
+| [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/Pankaj49111/leetcode-journey/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2169-simple-bank-system) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/2189-maximum-path-quality-of-a-graph) |
@@ -418,6 +419,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Pankaj49111/leetcode-journey/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Pankaj49111/leetcode-journey/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/Pankaj49111/leetcode-journey/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2504-find-all-good-indices](https://github.com/Pankaj49111/leetcode-journey/tree/master/2504-find-all-good-indices) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |

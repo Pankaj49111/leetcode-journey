@@ -21,6 +21,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1728-fancy-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/1728-fancy-sequence) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Pankaj49111/leetcode-journey/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Pankaj49111/leetcode-journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -59,6 +60,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1751-slowest-key](https://github.com/Pankaj49111/leetcode-journey/tree/master/1751-slowest-key) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Pankaj49111/leetcode-journey/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Pankaj49111/leetcode-journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2317-count-collisions-on-a-road](https://github.com/Pankaj49111/leetcode-journey/tree/master/2317-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/2887-sort-vowels-in-a-string) |
@@ -131,6 +133,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2169-simple-bank-system) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Pankaj49111/leetcode-journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2429-design-a-food-rating-system) |
@@ -442,6 +445,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pankaj49111/leetcode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Pankaj49111/leetcode-journey/tree/master/1753-path-with-minimum-effort) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Pankaj49111/leetcode-journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pankaj49111/leetcode-journey/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |

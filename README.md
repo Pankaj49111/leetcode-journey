@@ -158,6 +158,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -219,6 +220,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3678-design-task-manager](https://github.com/Pankaj49111/leetcode-journey/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Pankaj49111/leetcode-journey/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Pankaj49111/leetcode-journey/tree/master/3827-implement-router) |
@@ -324,6 +326,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0206-reverse-linked-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0432-all-oone-data-structure) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |

@@ -38,6 +38,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Pankaj49111/leetcode-journey/tree/master/0010-regular-expression-matching) |
+| [0049-group-anagrams](https://github.com/Pankaj49111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Pankaj49111/leetcode-journey/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
@@ -88,6 +89,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0037-sudoku-solver](https://github.com/Pankaj49111/leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/Pankaj49111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pankaj49111/leetcode-journey/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -194,6 +196,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0001-two-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Pankaj49111/leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Pankaj49111/leetcode-journey/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Pankaj49111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj49111/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -351,6 +354,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Pankaj49111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pankaj49111/leetcode-journey/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |

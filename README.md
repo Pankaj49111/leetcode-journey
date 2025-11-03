@@ -50,6 +50,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0981-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/Pankaj49111/leetcode-journey/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -117,6 +118,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/Pankaj49111/leetcode-journey/tree/master/0947-online-election) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0981-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/Pankaj49111/leetcode-journey/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |

@@ -56,6 +56,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pankaj49111/leetcode-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1483-rank-teams-by-votes](https://github.com/Pankaj49111/leetcode-journey/tree/master/1483-rank-teams-by-votes) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Pankaj49111/leetcode-journey/tree/master/1720-crawler-log-folder) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Pankaj49111/leetcode-journey/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -130,6 +131,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pankaj49111/leetcode-journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Pankaj49111/leetcode-journey/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Pankaj49111/leetcode-journey/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1720-crawler-log-folder](https://github.com/Pankaj49111/leetcode-journey/tree/master/1720-crawler-log-folder) |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/Pankaj49111/leetcode-journey/tree/master/1726-coordinate-with-maximum-network-quality) |
@@ -182,6 +184,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Pankaj49111/leetcode-journey/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Pankaj49111/leetcode-journey/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Pankaj49111/leetcode-journey/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pankaj49111/leetcode-journey/tree/master/1917-maximum-average-pass-ratio) |
@@ -441,6 +444,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pankaj49111/leetcode-journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Pankaj49111/leetcode-journey/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Pankaj49111/leetcode-journey/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/Pankaj49111/leetcode-journey/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |

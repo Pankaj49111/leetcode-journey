@@ -1,36 +1,29 @@
 class Solution {
     public int[] findXSum(int[] nums, int k, int x) {
-        int n = nums.length;
-        int[] ans = new int[n - k + 1];
+        Map<Integer, Integer> map = new HashMap<>();
+        int [] res = new int [nums.length - k + 1];
 
-        for (int i = 0; i <= n - k; i++) {
-            Map<Integer, Integer> freq = new HashMap<>();
-            for (int j = i; j < i + k; j++) {
-                freq.put(nums[j], freq.getOrDefault(nums[j], 0) + 1);
+        for (int i = 0, j = 0, r = 0; j < nums.length; j++) {
+            map.put(nums[j], map.getOrDefault(nums[j], 0) + 1);
+
+            if (j >= k - 1) {
+                Queue<int []> q = new PriorityQueue<>((a,b) -> b[1] == a[1] ? b[0] - a[0] : b[1] - a[1]);
+                for (int key : map.keySet()) {
+                    q.add(new int [] {key, map.get(key)});
+                }
+
+                int m = x, sum = 0;
+
+                while (!q.isEmpty() && m-- > 0) {
+                    int [] a = q.remove();
+                    sum += a[0] * a[1];
+                }
+
+                res[r++] = sum;
+                map.put(nums[i], map.get(nums[i++]) - 1);
             }
-
-            // Sort by value desc, key desc
-            Queue<Map.Entry<Integer, Integer>> pq =
-                new PriorityQueue<>((a, b) -> {
-                    if (a.getValue().equals(b.getValue()))
-                        return b.getKey() - a.getKey();
-                    return b.getValue() - a.getValue();
-                });
-
-            pq.addAll(freq.entrySet());
-
-            // Sum top x most frequent
-            int remaining = x;
-            int sum = 0;
-            while (remaining > 0 && !pq.isEmpty()) {
-                Map.Entry<Integer, Integer> e = pq.poll();
-                sum += e.getKey() * e.getValue();
-                remaining--;
-            }
-
-            ans[i] = sum;
         }
 
-        return ans;
+        return res;
     }
 }

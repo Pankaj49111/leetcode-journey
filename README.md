@@ -456,6 +456,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Pankaj49111/leetcode-journey/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Pankaj49111/leetcode-journey/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/Pankaj49111/leetcode-journey/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
@@ -574,6 +575,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2529-range-product-queries-of-powers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -631,6 +633,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pankaj49111/leetcode-journey/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Simulation
 |  |

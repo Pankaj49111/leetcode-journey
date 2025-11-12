@@ -50,6 +50,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0344-reverse-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj49111/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0981-delete-columns-to-make-sorted) |
@@ -111,6 +112,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0354-russian-doll-envelopes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0474-ones-and-zeroes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0474-ones-and-zeroes) |
 | [0605-can-place-flowers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0679-24-game) |
@@ -453,6 +455,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0198-house-robber](https://github.com/Pankaj49111/leetcode-journey/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Pankaj49111/leetcode-journey/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0354-russian-doll-envelopes) |
+| [0474-ones-and-zeroes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |

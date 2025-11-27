@@ -134,6 +134,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pankaj49111/leetcode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pankaj49111/leetcode-journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Pankaj49111/leetcode-journey/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1483-rank-teams-by-votes](https://github.com/Pankaj49111/leetcode-journey/tree/master/1483-rank-teams-by-votes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -298,6 +299,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0636-exclusive-time-of-functions](https://github.com/Pankaj49111/leetcode-journey/tree/master/0636-exclusive-time-of-functions) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pankaj49111/leetcode-journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1720-crawler-log-folder](https://github.com/Pankaj49111/leetcode-journey/tree/master/1720-crawler-log-folder) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -533,6 +535,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Pankaj49111/leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pankaj49111/leetcode-journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |

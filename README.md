@@ -345,6 +345,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Pankaj49111/leetcode-journey/tree/master/1753-path-with-minimum-effort) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Pankaj49111/leetcode-journey/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Trie
 |  |
 | ------- |
@@ -408,6 +409,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Pankaj49111/leetcode-journey/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |

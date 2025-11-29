@@ -31,6 +31,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pankaj49111/leetcode-journey/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -176,6 +177,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |

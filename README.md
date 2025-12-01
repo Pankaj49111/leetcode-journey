@@ -99,6 +99,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0056-merge-intervals](https://github.com/Pankaj49111/leetcode-journey/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Pankaj49111/leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
@@ -297,6 +298,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Pankaj49111/leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/Pankaj49111/leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0636-exclusive-time-of-functions](https://github.com/Pankaj49111/leetcode-journey/tree/master/0636-exclusive-time-of-functions) |
@@ -539,6 +541,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Pankaj49111/leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Pankaj49111/leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Pankaj49111/leetcode-journey/tree/master/0739-daily-temperatures) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1159-smallest-subsequence-of-distinct-characters) |

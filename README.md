@@ -33,6 +33,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3462-vowels-game-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pankaj49111/leetcode-journey/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -181,6 +182,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -681,6 +683,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
@@ -700,6 +703,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting Sort
 |  |

@@ -80,6 +80,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3396-valid-word](https://github.com/Pankaj49111/leetcode-journey/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3462-vowels-game-in-a-string) |
+| [3606-coupon-code-validator](https://github.com/Pankaj49111/leetcode-journey/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Pankaj49111/leetcode-journey/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pankaj49111/leetcode-journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -183,6 +184,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3606-coupon-code-validator](https://github.com/Pankaj49111/leetcode-journey/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -249,6 +251,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3606-coupon-code-validator](https://github.com/Pankaj49111/leetcode-journey/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Pankaj49111/leetcode-journey/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Pankaj49111/leetcode-journey/tree/master/3797-design-spreadsheet) |
@@ -405,6 +408,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2887-sort-vowels-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3606-coupon-code-validator](https://github.com/Pankaj49111/leetcode-journey/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Tree

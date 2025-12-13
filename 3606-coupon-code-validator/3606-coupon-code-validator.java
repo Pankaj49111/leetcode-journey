@@ -1,40 +1,57 @@
 class Solution {
+    private static final Map<String, Integer> ORDER = Map.of(
+        "electronics", 0,
+        "grocery", 1,
+        "pharmacy", 2,
+        "restaurant", 3
+    );
+
     public List<String> validateCoupons(String[] code, String[] businessLine, boolean[] isActive) {
-        List<String> valid = Arrays.asList("electronics", "grocery", "pharmacy", "restaurant");
+        List<Coupon> validCoupons = new ArrayList<>();
 
-        // store businessLine + code together
-        List<String[]> res = new ArrayList<>();
-        int n = code.length;
-
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < code.length; i++) {
             if (!isActive[i]) continue;
+            if (!ORDER.containsKey(businessLine[i])) continue;
+            if (!isValidCode(code[i])) continue;
 
-            String business = businessLine[i];
-            if (!valid.contains(business)) continue;
-
-            String cd = code[i];
-            if (!isValid(cd)) continue;
-
-            res.add(new String[]{business, cd});
+            validCoupons.add(new Coupon(code[i], businessLine[i]));
         }
 
-        // sort by businessLine order, then by code
-        res.sort((a, b) -> {
-            int cmp = valid.indexOf(a[0]) - valid.indexOf(b[0]);
+        // Sort by businessLine order, then by code
+        validCoupons.sort((a, b) -> {
+            int cmp = Integer.compare(
+                ORDER.get(a.businessLine),
+                ORDER.get(b.businessLine)
+            );
             if (cmp != 0) return cmp;
-            return a[1].compareTo(b[1]);
+            return a.code.compareTo(b.code);
         });
 
-        // extract only codes
-        List<String> ans = new ArrayList<>();
-        for (String[] pair : res) {
-            ans.add(pair[1]);
+        // Extract codes
+        List<String> result = new ArrayList<>();
+        for (Coupon c : validCoupons) {
+            result.add(c.code);
         }
-
-        return ans;
+        return result;
     }
 
-    boolean isValid(String s) {
-        return s != null && s.matches("[A-Za-z0-9_]+");
+    private boolean isValidCode(String s) {
+        if (s == null || s.isEmpty()) return false;
+        for (char c : s.toCharArray()) {
+            if (!Character.isLetterOrDigit(c) && c != '_') {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    static class Coupon {
+        String code;
+        String businessLine;
+
+        Coupon(String code, String businessLine) {
+            this.code = code;
+            this.businessLine = businessLine;
+        }
     }
 }

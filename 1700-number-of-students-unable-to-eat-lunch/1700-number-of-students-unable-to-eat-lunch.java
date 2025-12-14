@@ -1,20 +1,20 @@
 class Solution {
-    public int countStudents(int[] students, int[] sandwiches) {
-        Queue<Integer> q = new ArrayDeque<>();
-        for(int s: students) q.offer(s);
+    public int countStudents(int[] sts, int[] sds) {
+        int c0=0, c1=0;
+        for(int s: sts) {
+            if(s == 0) c0++;
+            else c1++;
+        }
 
-        int idx=0, rotate=0;
-
-        while(!q.isEmpty() && rotate < q.size()){
-            if(q.peek() == sandwiches[idx]){
-                q.poll();
-                rotate=0;
-                idx++;
+        for(int s: sds){
+            if(s == 0){
+                if(c0 == 0) break;
+                c0--;
             } else {
-                q.offer(q.poll());
-                rotate++;
+                if(c1 == 0) break;
+                c1--;
             }
         }
-        return q.size();
+        return c0+c1;
     }
 }

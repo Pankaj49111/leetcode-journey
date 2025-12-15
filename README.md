@@ -20,6 +20,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1728-fancy-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/1728-fancy-sequence) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Pankaj49111/leetcode-journey/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Pankaj49111/leetcode-journey/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pankaj49111/leetcode-journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -160,6 +161,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1834-minimum-number-of-people-to-teach](https://github.com/Pankaj49111/leetcode-journey/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pankaj49111/leetcode-journey/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2023-design-movie-rental-system) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/Pankaj49111/leetcode-journey/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2169-simple-bank-system) |
@@ -493,6 +495,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Pankaj49111/leetcode-journey/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/Pankaj49111/leetcode-journey/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Pankaj49111/leetcode-journey/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2408-number-of-people-aware-of-a-secret) |

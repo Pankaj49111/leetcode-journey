@@ -303,6 +303,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0200-number-of-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pankaj49111/leetcode-journey/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Pankaj49111/leetcode-journey/tree/master/0684-redundant-connection) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1753-path-with-minimum-effort](https://github.com/Pankaj49111/leetcode-journey/tree/master/1753-path-with-minimum-effort) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
@@ -358,6 +359,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0207-course-schedule](https://github.com/Pankaj49111/leetcode-journey/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Pankaj49111/leetcode-journey/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Pankaj49111/leetcode-journey/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/Pankaj49111/leetcode-journey/tree/master/0687-longest-univalue-path) |
 | [0744-network-delay-time](https://github.com/Pankaj49111/leetcode-journey/tree/master/0744-network-delay-time) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -438,6 +440,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0207-course-schedule](https://github.com/Pankaj49111/leetcode-journey/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Pankaj49111/leetcode-journey/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Pankaj49111/leetcode-journey/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Pankaj49111/leetcode-journey/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Pankaj49111/leetcode-journey/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -543,6 +546,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0207-course-schedule](https://github.com/Pankaj49111/leetcode-journey/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Pankaj49111/leetcode-journey/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Pankaj49111/leetcode-journey/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Pankaj49111/leetcode-journey/tree/master/0744-network-delay-time) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |

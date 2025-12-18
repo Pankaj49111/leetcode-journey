@@ -274,6 +274,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Pankaj49111/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0432-all-oone-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -324,6 +325,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pankaj49111/leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/Pankaj49111/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Pankaj49111/leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0636-exclusive-time-of-functions](https://github.com/Pankaj49111/leetcode-journey/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Pankaj49111/leetcode-journey/tree/master/0739-daily-temperatures) |
@@ -672,6 +674,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Pankaj49111/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |

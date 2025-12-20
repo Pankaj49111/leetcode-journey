@@ -148,6 +148,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1046-last-stone-weight](https://github.com/Pankaj49111/leetcode-journey/tree/master/1046-last-stone-weight) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Pankaj49111/leetcode-journey/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Pankaj49111/leetcode-journey/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pankaj49111/leetcode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/1441-build-an-array-with-stack-operations) |
@@ -359,6 +360,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Pankaj49111/leetcode-journey/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Pankaj49111/leetcode-journey/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Pankaj49111/leetcode-journey/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Pankaj49111/leetcode-journey/tree/master/1710-find-servers-that-handled-most-number-of-requests) |

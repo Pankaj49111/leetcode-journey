@@ -55,6 +55,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj49111/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0474-ones-and-zeroes) |
+| [0520-detect-capital](https://github.com/Pankaj49111/leetcode-journey/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0944-delete-columns-to-make-sorted) |

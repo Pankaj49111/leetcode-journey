@@ -6,6 +6,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0342-power-of-four](https://github.com/Pankaj49111/leetcode-journey/tree/master/0342-power-of-four) |
@@ -665,6 +666,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/Pankaj49111/leetcode-journey/tree/master/0342-power-of-four) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |

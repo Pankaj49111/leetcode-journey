@@ -61,6 +61,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Pankaj49111/leetcode-journey/tree/master/0990-satisfiability-of-equality-equations) |
 | [1006-vowel-spellchecker](https://github.com/Pankaj49111/leetcode-journey/tree/master/1006-vowel-spellchecker) |
@@ -142,6 +143,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0944-delete-columns-to-make-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0947-online-election](https://github.com/Pankaj49111/leetcode-journey/tree/master/0947-online-election) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Pankaj49111/leetcode-journey/tree/master/0990-satisfiability-of-equality-equations) |
 | [1006-vowel-spellchecker](https://github.com/Pankaj49111/leetcode-journey/tree/master/1006-vowel-spellchecker) |
@@ -533,6 +535,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pankaj49111/leetcode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pankaj49111/leetcode-journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |

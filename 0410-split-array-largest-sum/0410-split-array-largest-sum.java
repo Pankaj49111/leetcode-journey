@@ -1,31 +1,40 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        int n = nums.length;
-        int[] prefixSum = new int[n + 1];
+        int left = 0;
+        int right = 0;
 
-        for (int i = 0; i < n; i++) {
-            prefixSum[i + 1] = prefixSum[i] + nums[i];
+        for (int num : nums) {
+            left = Math.max(left, num);
+            right += num;
         }
 
-        int[][] dp = new int[n + 1][k + 1];
+        while (left < right) {
+            int mid = left + (right - left) / 2;
 
-        for (int i = 0; i <= n; i++) {
-            Arrays.fill(dp[i], Integer.MAX_VALUE);
-        }
-
-        dp[0][0] = 0;
-
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= k; j++) {
-                for (int p = j - 1; p < i; p++) {
-                    int lastSum = prefixSum[i] - prefixSum[p];
-                    int worst = Math.max(dp[p][j - 1], lastSum);
-                    dp[i][j] = Math.min(dp[i][j], worst);
-                }
+            if (canSplit(nums, k, mid)) {
+                right = mid;
+            } else {
+                left = mid + 1;
             }
         }
 
-        return dp[n][k];
+        return left;
     }
+    boolean canSplit(int[] nums, int k, int maxAllowedSum) {
+        int subarrays = 1;
+        int currentSum = 0;
+
+        for (int num : nums) {
+            if (currentSum + num > maxAllowedSum) {
+                subarrays++;
+                currentSum = num;
+            } else {
+                currentSum += num;
+            }
+        }
+
+        return subarrays <= k;
+    }
+
 
 }

@@ -200,6 +200,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Pankaj49111/leetcode-journey/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pankaj49111/leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pankaj49111/leetcode-journey/tree/master/3074-apple-redistribution-into-boxes) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -435,6 +436,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0165-compare-version-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0344-reverse-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pankaj49111/leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -462,6 +464,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2054-two-best-non-overlapping-events](https://github.com/Pankaj49111/leetcode-journey/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2092-find-all-people-with-secret) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pankaj49111/leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pankaj49111/leetcode-journey/tree/master/3074-apple-redistribution-into-boxes) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -528,6 +531,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2054-two-best-non-overlapping-events](https://github.com/Pankaj49111/leetcode-journey/tree/master/2054-two-best-non-overlapping-events) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Pankaj49111/leetcode-journey/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pankaj49111/leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3827-implement-router](https://github.com/Pankaj49111/leetcode-journey/tree/master/3827-implement-router) |
 ## Dynamic Programming

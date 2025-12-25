@@ -4,15 +4,14 @@ class Solution {
 
         int n = happiness.length;
         long total = 0;
-        int decrement = 0;
+        int turns = 0;
 
-        for (int i = n - 1; i >= 0 && k > 0; i--) {
-            int current = happiness[i] - decrement;
+        for (int i = n - 1; i >= 0 && k > turns; i--) {
+            int current = happiness[i] - turns;
             if(current <= 0) break;
             
             total += current;
-            decrement++;
-            k--;
+            turns++;
         }
 
         return total;

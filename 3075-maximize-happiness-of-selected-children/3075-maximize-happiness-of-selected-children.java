@@ -8,13 +8,11 @@ class Solution {
 
         for (int i = n - 1; i >= 0 && k > 0; i--) {
             int current = happiness[i] - decrement;
-            if (current > 0) {
-                total += current;
-                decrement++;
-                k--;
-            } else {
-                break;
-            }
+            if(current <= 0) break;
+            
+            total += current;
+            decrement++;
+            k--;
         }
 
         return total;

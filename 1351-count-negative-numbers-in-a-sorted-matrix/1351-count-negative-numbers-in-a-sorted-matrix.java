@@ -3,10 +3,19 @@ class Solution {
         int count = 0;
         for(int[] g: grid){
             int n = g.length;
-            for(int i=n-1; i>=0; i--){
-                if(g[i] < 0) count++;
-                else break;
+            int l=0, r=n-1;
+            int neg = n;
+
+            while(l <= r) {
+                int mid = l + (r-l)/2;
+                if(g[mid] < 0){
+                    neg = mid;
+                    r = mid-1;
+                } else {
+                    l = mid+1;
+                }
             }
+            count += n - neg;
         }
         return count;
     }

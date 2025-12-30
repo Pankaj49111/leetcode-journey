@@ -4,10 +4,8 @@ class Solution {
         Map<String, List<Character>> map = new HashMap<>();
         for (String rule : allowed) {
             String key = rule.substring(0, 2);
-            map.computeIfAbsent(key, k -> new ArrayList<>())
-            .add(rule.charAt(2));
+            map.computeIfAbsent(key, k -> new ArrayList<>()).add(rule.charAt(2));
         }
-
         return dfs(bottom, map);
     }
 

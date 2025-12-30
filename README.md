@@ -12,6 +12,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0342-power-of-four](https://github.com/Pankaj49111/leetcode-journey/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0679-24-game) |
+| [0840-magic-squares-in-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -141,6 +142,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Pankaj49111/leetcode-journey/tree/master/0739-daily-temperatures) |
+| [0840-magic-squares-in-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/0840-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0940-fruit-into-baskets) |
@@ -270,6 +272,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0697-degree-of-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0697-degree-of-an-array) |
 | [0756-pyramid-transition-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0756-pyramid-transition-matrix) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
+| [0840-magic-squares-in-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/Pankaj49111/leetcode-journey/tree/master/0947-online-election) |
 | [1006-vowel-spellchecker](https://github.com/Pankaj49111/leetcode-journey/tree/master/1006-vowel-spellchecker) |
@@ -602,6 +605,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0200-number-of-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/0840-magic-squares-in-grid) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

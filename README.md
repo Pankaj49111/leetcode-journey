@@ -58,6 +58,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0474-ones-and-zeroes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/Pankaj49111/leetcode-journey/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
+| [0756-pyramid-transition-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0756-pyramid-transition-matrix) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -267,6 +268,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0697-degree-of-an-array) |
+| [0756-pyramid-transition-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0756-pyramid-transition-matrix) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/Pankaj49111/leetcode-journey/tree/master/0947-online-election) |
@@ -703,6 +705,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0029-divide-two-integers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/Pankaj49111/leetcode-journey/tree/master/0342-power-of-four) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -758,6 +761,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0756-pyramid-transition-matrix) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/2189-maximum-path-quality-of-a-graph) |

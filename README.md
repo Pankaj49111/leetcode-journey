@@ -7,6 +7,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0007-reverse-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0342-power-of-four](https://github.com/Pankaj49111/leetcode-journey/tree/master/0342-power-of-four) |
@@ -114,6 +115,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0040-combination-sum-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Pankaj49111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pankaj49111/leetcode-journey/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pankaj49111/leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |

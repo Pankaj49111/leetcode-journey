@@ -53,6 +53,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0316-remove-duplicate-letters](https://github.com/Pankaj49111/leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj49111/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -309,6 +310,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Pankaj49111/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0432-all-oone-data-structure) |
@@ -414,6 +416,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pankaj49111/leetcode-journey/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Pankaj49111/leetcode-journey/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Pankaj49111/leetcode-journey/tree/master/0684-redundant-connection) |
@@ -432,6 +435,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Trie
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0386-lexicographical-numbers) |
 ## Linked List
 |  |

@@ -155,6 +155,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0947-online-election](https://github.com/Pankaj49111/leetcode-journey/tree/master/0947-online-election) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Pankaj49111/leetcode-journey/tree/master/0990-satisfiability-of-equality-equations) |
 | [1006-vowel-spellchecker](https://github.com/Pankaj49111/leetcode-journey/tree/master/1006-vowel-spellchecker) |
@@ -282,6 +283,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0840-magic-squares-in-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/Pankaj49111/leetcode-journey/tree/master/0947-online-election) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Pankaj49111/leetcode-journey/tree/master/1006-vowel-spellchecker) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Pankaj49111/leetcode-journey/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |

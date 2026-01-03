@@ -295,6 +295,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Pankaj49111/leetcode-journey/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2023-design-movie-rental-system) |
+| [2034-stock-price-fluctuation](https://github.com/Pankaj49111/leetcode-journey/tree/master/2034-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2429-design-a-food-rating-system) |
@@ -320,6 +321,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0947-online-election](https://github.com/Pankaj49111/leetcode-journey/tree/master/0947-online-election) |
 | [1728-fancy-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/1728-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2023-design-movie-rental-system) |
+| [2034-stock-price-fluctuation](https://github.com/Pankaj49111/leetcode-journey/tree/master/2034-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Pankaj49111/leetcode-journey/tree/master/3678-design-task-manager) |
@@ -403,6 +405,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1753-path-with-minimum-effort](https://github.com/Pankaj49111/leetcode-journey/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pankaj49111/leetcode-journey/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2023-design-movie-rental-system) |
+| [2034-stock-price-fluctuation](https://github.com/Pankaj49111/leetcode-journey/tree/master/2034-stock-price-fluctuation) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pankaj49111/leetcode-journey/tree/master/2054-two-best-non-overlapping-events) |
 | [2429-design-a-food-rating-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2429-design-a-food-rating-system) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
@@ -694,6 +697,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2034-stock-price-fluctuation](https://github.com/Pankaj49111/leetcode-journey/tree/master/2034-stock-price-fluctuation) |
 ## Geometry
 |  |
 | ------- |
@@ -719,6 +723,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Pankaj49111/leetcode-journey/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [2023-design-movie-rental-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2023-design-movie-rental-system) |
+| [2034-stock-price-fluctuation](https://github.com/Pankaj49111/leetcode-journey/tree/master/2034-stock-price-fluctuation) |
 | [2429-design-a-food-rating-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Pankaj49111/leetcode-journey/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Pankaj49111/leetcode-journey/tree/master/3827-implement-router) |

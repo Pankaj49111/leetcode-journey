@@ -1,54 +1,50 @@
 class StockPrice {
-    Map<Integer, Integer> timePrice;
-    Queue<int[]> max;
-    Queue<int[]> min;
-    int maxTs;
+
+    // timestamp -> price
+    private HashMap<Integer, Integer> timePrice;
+
+    // price -> frequency
+    private TreeMap<Integer, Integer> priceCount;
+
+    // latest timestamp
+    private int maxTimestamp;
+
     public StockPrice() {
         timePrice = new HashMap<>();
-
-        min = new PriorityQueue<>((a,b) -> (a[0]-b[0]));
-        max = new PriorityQueue<>((a,b) -> (b[0]-a[0]));
-
-        maxTs = 0;
+        priceCount = new TreeMap<>();
+        maxTimestamp = 0;
     }
-    
-    public void update(int ts, int price) {
-        timePrice.put(ts, price);
 
-        max.offer(new int[]{price, ts});
-        min.offer(new int[]{price, ts});
+    public void update(int timestamp, int price) {
+        if (timePrice.containsKey(timestamp)) {
+            int oldPrice = timePrice.get(timestamp);
+            priceCount.put(oldPrice, priceCount.get(oldPrice) - 1);
+            if (priceCount.get(oldPrice) == 0) {
+                priceCount.remove(oldPrice);
+            }
+        }
 
-        maxTs = Math.max(maxTs, ts);
+        // Add new price
+        timePrice.put(timestamp, price);
+        priceCount.put(price, priceCount.getOrDefault(price, 0) + 1);
+
+        // Update latest timestamp
+        maxTimestamp = Math.max(maxTimestamp, timestamp);
     }
-    
+
     public int current() {
-        return timePrice.get(maxTs);
+        return timePrice.get(maxTimestamp);
     }
-    
+
     public int maximum() {
-        while(true){
-            int[] top = max.peek();
-            int price = top[0];
-            int ts = top[1];
-
-            if(timePrice.get(ts) == price) return price;
-
-            max.poll();
-        }
+        return priceCount.lastKey();
     }
-    
+
     public int minimum() {
-        while(true){
-            int[] top = min.peek();
-            int price = top[0];
-            int ts = top[1];
-
-            if(timePrice.get(ts) == price) return price;
-
-            min.poll();
-        }
+        return priceCount.firstKey();
     }
 }
+
 
 /**
  * Your StockPrice object will be instantiated and called as such:

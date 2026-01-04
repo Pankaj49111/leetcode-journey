@@ -24,6 +24,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1728-fancy-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/1728-fancy-sequence) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Pankaj49111/leetcode-journey/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1927-sum-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/1927-sum-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Pankaj49111/leetcode-journey/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -84,6 +85,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1751-slowest-key](https://github.com/Pankaj49111/leetcode-journey/tree/master/1751-slowest-key) |
+| [1927-sum-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/1927-sum-game) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Pankaj49111/leetcode-journey/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Pankaj49111/leetcode-journey/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -257,6 +259,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Pankaj49111/leetcode-journey/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Pankaj49111/leetcode-journey/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pankaj49111/leetcode-journey/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/1927-sum-game) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pankaj49111/leetcode-journey/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -832,6 +835,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |

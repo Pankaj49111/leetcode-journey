@@ -1,19 +1,21 @@
 class Solution {
     public int sumFourDivisors(int[] nums) {
-        int sum=0;
+        int totalSum=0;
         for(int n: nums){
-            List<Integer> ls = new ArrayList<>();
+            int sum = 0, count= 0;
             for(int i=1; i*i<=n; i++) {
                 if(n%i == 0){
-                    ls.add(i);
-                    if(i != n/i) ls.add(n/i);
+                    sum += i; count++;
+                    if(i != n/i) {
+                        sum += n/i; count++;
+                    }
                 }
+                if(count > 4) break;
             }
-            // System.out.println(ls);
-            if(ls.size() == 4){
-                for(int item: ls) sum += item;
+            if(count == 4){
+                totalSum += sum;
             }
         }
-        return sum;
+        return totalSum;
     }
 }

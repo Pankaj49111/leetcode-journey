@@ -126,6 +126,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0084-largest-rectangle-in-histogram](https://github.com/Pankaj49111/leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Pankaj49111/leetcode-journey/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Pankaj49111/leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pankaj49111/leetcode-journey/tree/master/0198-house-robber) |
@@ -279,6 +280,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0037-sudoku-solver](https://github.com/Pankaj49111/leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Pankaj49111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj49111/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0432-all-oone-data-structure) |
@@ -360,6 +362,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pankaj49111/leetcode-journey/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Pankaj49111/leetcode-journey/tree/master/0684-redundant-connection) |

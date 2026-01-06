@@ -439,6 +439,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0687-longest-univalue-path](https://github.com/Pankaj49111/leetcode-journey/tree/master/0687-longest-univalue-path) |
 | [0744-network-delay-time](https://github.com/Pankaj49111/leetcode-journey/tree/master/0744-network-delay-time) |
 | [0886-possible-bipartition](https://github.com/Pankaj49111/leetcode-journey/tree/master/0886-possible-bipartition) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Pankaj49111/leetcode-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -523,6 +524,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0687-longest-univalue-path](https://github.com/Pankaj49111/leetcode-journey/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Pankaj49111/leetcode-journey/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -538,6 +540,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0744-network-delay-time](https://github.com/Pankaj49111/leetcode-journey/tree/master/0744-network-delay-time) |
 | [0886-possible-bipartition](https://github.com/Pankaj49111/leetcode-journey/tree/master/0886-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Pankaj49111/leetcode-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -557,6 +560,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0687-longest-univalue-path](https://github.com/Pankaj49111/leetcode-journey/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pankaj49111/leetcode-journey/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 ## Binary Search

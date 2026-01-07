@@ -14,31 +14,31 @@
  * }
  */
 class Solution {
-    long totalSum;
-    long maxProduct = 0;
     static final int MOD = 1_000_000_007;
+    long totalSum = 0;
+    long maxProduct = 0;
 
     public int maxProduct(TreeNode root) {
-        totalSum = computeSums(root);
-
-        for (long s : subtreeSums) {
-            long product = s * (totalSum - s);
-            maxProduct = Math.max(maxProduct, product);
-        }
-
+        totalSum = treeSum(root);
+        compute(root);
         return (int)(maxProduct % MOD);
     }
 
-    List<Long> subtreeSums = new ArrayList<>();
+    private long treeSum(TreeNode node) {
+        if (node == null) return 0;
+        return node.val + treeSum(node.left) + treeSum(node.right);
+    }
 
-    long computeSums(TreeNode node) {
+    private long compute(TreeNode node) {
         if (node == null) return 0;
 
-        long sum = node.val
-                 + computeSums(node.left)
-                 + computeSums(node.right);
+        long left = compute(node.left);
+        long right = compute(node.right);
 
-        subtreeSums.add(sum);
-        return sum;
+        long subSum = node.val + left + right;
+        long product = subSum * (totalSum - subSum);
+        maxProduct = Math.max(maxProduct, product);
+
+        return subSum;
     }
 }

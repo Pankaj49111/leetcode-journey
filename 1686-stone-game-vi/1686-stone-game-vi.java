@@ -17,6 +17,8 @@ class Solution {
                 bScore += bv[stone];
             }
         }
-        return Integer.compare(aScore, bScore);
+        if (aScore > bScore) return 1;
+        if (aScore < bScore) return -1;
+        return 0;
     }
 }

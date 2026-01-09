@@ -138,6 +138,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Pankaj49111/leetcode-journey/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/Pankaj49111/leetcode-journey/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Pankaj49111/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Pankaj49111/leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -284,6 +285,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0049-group-anagrams](https://github.com/Pankaj49111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/Pankaj49111/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj49111/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0432-all-oone-data-structure) |
@@ -405,6 +407,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Pankaj49111/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Pankaj49111/leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
@@ -504,6 +507,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0148-sort-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Pankaj49111/leetcode-journey/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Pankaj49111/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
@@ -713,11 +717,13 @@ This repository contains my accepted LeetCode Java submissions.
 | [0148-sort-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Pankaj49111/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Pankaj49111/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
@@ -738,6 +744,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pankaj49111/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Pankaj49111/leetcode-journey/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1483-rank-teams-by-votes](https://github.com/Pankaj49111/leetcode-journey/tree/master/1483-rank-teams-by-votes) |
@@ -886,4 +893,8 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0148-sort-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pankaj49111/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

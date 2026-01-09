@@ -14,32 +14,27 @@
  * }
  */
 class Solution {
+    private int maxDepth = 0;
+    private TreeNode answer = null;
+
     public TreeNode subtreeWithAllDeepest(TreeNode root) {
-        return dfs(root).node;
+        dfs(root, 0);
+        return answer;
     }
 
-    private Result dfs(TreeNode node) {
-        if (node == null) return new Result(0, null);
+    private int dfs(TreeNode node, int depth) {
+        if (node == null) return depth - 1;
 
-        Result left = dfs(node.left);
-        Result right = dfs(node.right);
+        int leftDepth = dfs(node.left, depth + 1);
+        int rightDepth = dfs(node.right, depth + 1);
 
-        if (left.depth > right.depth) {
-            return new Result(left.depth + 1, left.node);
-        } else if (right.depth > left.depth) {
-            return new Result(right.depth + 1, right.node);
-        } else {
-            return new Result(left.depth + 1, node);
+        int currentMax = Math.max(leftDepth, rightDepth);
+
+        if (leftDepth == rightDepth && currentMax >= maxDepth) {
+            maxDepth = currentMax;
+            answer = node;
         }
-    }
 
-    static class Result {
-        int depth;
-        TreeNode node;
-
-        Result(int d, TreeNode n) {
-            depth = d;
-            node = n;
-        }
+        return currentMax;
     }
 }

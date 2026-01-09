@@ -22,6 +22,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pankaj49111/leetcode-journey/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1686-stone-game-vi](https://github.com/Pankaj49111/leetcode-journey/tree/master/1686-stone-game-vi) |
 | [1728-fancy-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/1728-fancy-sequence) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Pankaj49111/leetcode-journey/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1927-sum-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/1927-sum-game) |
@@ -183,6 +184,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pankaj49111/leetcode-journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1686-stone-game-vi](https://github.com/Pankaj49111/leetcode-journey/tree/master/1686-stone-game-vi) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Pankaj49111/leetcode-journey/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -256,6 +258,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1448-maximum-69-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1686-stone-game-vi](https://github.com/Pankaj49111/leetcode-journey/tree/master/1686-stone-game-vi) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Pankaj49111/leetcode-journey/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Pankaj49111/leetcode-journey/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
@@ -413,6 +416,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Pankaj49111/leetcode-journey/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Pankaj49111/leetcode-journey/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1686-stone-game-vi](https://github.com/Pankaj49111/leetcode-journey/tree/master/1686-stone-game-vi) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Pankaj49111/leetcode-journey/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1753-path-with-minimum-effort](https://github.com/Pankaj49111/leetcode-journey/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pankaj49111/leetcode-journey/tree/master/1917-maximum-average-pass-ratio) |
@@ -506,6 +510,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |
 | [1483-rank-teams-by-votes](https://github.com/Pankaj49111/leetcode-journey/tree/master/1483-rank-teams-by-votes) |
+| [1686-stone-game-vi](https://github.com/Pankaj49111/leetcode-journey/tree/master/1686-stone-game-vi) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pankaj49111/leetcode-journey/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2092-find-all-people-with-secret) |
@@ -853,6 +858,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Game Theory
 |  |
 | ------- |
+| [1686-stone-game-vi](https://github.com/Pankaj49111/leetcode-journey/tree/master/1686-stone-game-vi) |
 | [1927-sum-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask

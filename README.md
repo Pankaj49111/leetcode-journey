@@ -127,6 +127,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pankaj49111/leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Pankaj49111/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
@@ -387,6 +388,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pankaj49111/leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Pankaj49111/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Pankaj49111/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Pankaj49111/leetcode-journey/tree/master/0316-remove-duplicate-letters) |
@@ -612,6 +614,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0010-regular-expression-matching](https://github.com/Pankaj49111/leetcode-journey/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Pankaj49111/leetcode-journey/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Pankaj49111/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj49111/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Pankaj49111/leetcode-journey/tree/master/0152-maximum-product-subarray) |
@@ -662,6 +665,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0036-valid-sudoku](https://github.com/Pankaj49111/leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Pankaj49111/leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Pankaj49111/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -708,6 +712,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pankaj49111/leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Pankaj49111/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Pankaj49111/leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Pankaj49111/leetcode-journey/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |

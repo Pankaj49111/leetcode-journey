@@ -8,15 +8,7 @@ class Solution {
             int nx = points[i][0];
             int ny = points[i][1];
 
-            while(x!=nx || y!=ny){
-                if(x<nx) x++;
-                else if(x>nx) x--;
-
-                if(y<ny) y++;
-                else if(y>ny) y--;
-
-                time++;
-            }
+            time += Math.max(Math.abs(x-nx), Math.abs(y-ny));
         }
         return time;
     }

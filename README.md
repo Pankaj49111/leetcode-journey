@@ -16,6 +16,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0840-magic-squares-in-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Pankaj49111/leetcode-journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Pankaj49111/leetcode-journey/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -176,6 +177,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1046-last-stone-weight](https://github.com/Pankaj49111/leetcode-journey/tree/master/1046-last-stone-weight) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Pankaj49111/leetcode-journey/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Pankaj49111/leetcode-journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Pankaj49111/leetcode-journey/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1390-four-divisors](https://github.com/Pankaj49111/leetcode-journey/tree/master/1390-four-divisors) |
@@ -749,6 +751,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Pankaj49111/leetcode-journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Counting

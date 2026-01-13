@@ -141,6 +141,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0239-sliding-window-maximum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Pankaj49111/leetcode-journey/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pankaj49111/leetcode-journey/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj49111/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0354-russian-doll-envelopes) |
@@ -594,6 +595,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0033-search-in-rotated-sorted-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pankaj49111/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0410-split-array-largest-sum) |
@@ -624,6 +626,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0152-maximum-product-subarray](https://github.com/Pankaj49111/leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pankaj49111/leetcode-journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pankaj49111/leetcode-journey/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0410-split-array-largest-sum) |

@@ -54,6 +54,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0005-longest-palindromic-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Pankaj49111/leetcode-journey/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Pankaj49111/leetcode-journey/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Pankaj49111/leetcode-journey/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Pankaj49111/leetcode-journey/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
@@ -125,6 +126,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0049-group-anagrams](https://github.com/Pankaj49111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pankaj49111/leetcode-journey/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Pankaj49111/leetcode-journey/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Pankaj49111/leetcode-journey/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -882,6 +884,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Pankaj49111/leetcode-journey/tree/master/0068-text-justification) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Pankaj49111/leetcode-journey/tree/master/2073-time-needed-to-buy-tickets) |

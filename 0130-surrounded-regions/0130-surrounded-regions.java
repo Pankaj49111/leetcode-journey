@@ -1,40 +1,33 @@
 class Solution {
-    void solve(char[][] board) {
+    public void solve(char[][] board) {
         int m = board.length, n = board[0].length;
 
         for (int i = 0; i < m; i++) {
+            dfs(board, i, 0);
+            dfs(board, i, n - 1);
+        }
+        for (int j = 0; j < n; j++) {
+            dfs(board, 0, j);
+            dfs(board, m - 1, j);
+        }
+
+        for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (board[i][j] == 'O') {
-                    boolean[][] visited = new boolean[m][n];
-                    List<int[]> region = new ArrayList<>();
-                    if (!touchesBorder(board, i, j, visited, region)) {
-                        for (int[] cell : region) {
-                            board[cell[0]][cell[1]] = 'X';
-                        }
-                    }
-                }
+                if (board[i][j] == 'O') board[i][j] = 'X';
+                else if (board[i][j] == '#') board[i][j] = 'O';
             }
         }
     }
 
-    boolean touchesBorder(char[][] board, int i, int j,
-                        boolean[][] visited, List<int[]> region) {
+    private void dfs(char[][] board, int i, int j) {
         int m = board.length, n = board[0].length;
+        if (i < 0 || j < 0 || i >= m || j >= n || board[i][j] != 'O') return;
 
-        if (i < 0 || j < 0 || i >= m || j >= n) return false;
-        if (visited[i][j] || board[i][j] == 'X') return false;
-
-        visited[i][j] = true;
-        region.add(new int[]{i, j});
-
-        if (i == 0 || j == 0 || i == m - 1 || j == n - 1) {
-            return true;
-        }
-
-        return touchesBorder(board, i + 1, j, visited, region)
-            || touchesBorder(board, i - 1, j, visited, region)
-            || touchesBorder(board, i, j + 1, visited, region)
-            || touchesBorder(board, i, j - 1, visited, region);
+        board[i][j] = '#';
+        dfs(board, i + 1, j);
+        dfs(board, i - 1, j);
+        dfs(board, i, j + 1);
+        dfs(board, i, j - 1);
     }
 
 }

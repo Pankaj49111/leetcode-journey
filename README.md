@@ -5,6 +5,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/0066-plus-one) |
@@ -498,6 +499,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0206-reverse-linked-list) |
@@ -525,6 +527,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Pankaj49111/leetcode-journey/tree/master/0010-regular-expression-matching) |
 | [0143-reorder-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0206-reverse-linked-list) |

@@ -20,30 +20,15 @@ class Solution {
             prev = prev.next;
         }
 
-        ListNode start = prev.next;
-        ListNode end = start;
-        for (int i = left; i < right; i++) {
-            end = end.next;
+        ListNode curr = prev.next;
+
+        for (int i = 0; i < right - left; i++) {
+            ListNode next = curr.next;
+            curr.next = next.next;
+            next.next = prev.next;
+            prev.next = next;
         }
-
-        ListNode next = end.next;
-        end.next = null;
-
-        prev.next = rev(start);
-        start.next = next;
 
         return dummy.next;
-    }
-
-    ListNode rev(ListNode head){
-        ListNode prev = null;
-
-        while(head != null){
-            ListNode next = head.next;
-            head.next = prev;
-            prev = head;
-            head = next;
-        }
-        return prev;
     }
 }

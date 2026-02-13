@@ -500,6 +500,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0002-add-two-numbers) |
+| [0092-reverse-linked-list-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0206-reverse-linked-list) |

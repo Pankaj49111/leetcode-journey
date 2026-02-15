@@ -9,6 +9,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0007-reverse-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Pankaj49111/leetcode-journey/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0342-power-of-four](https://github.com/Pankaj49111/leetcode-journey/tree/master/0342-power-of-four) |
@@ -55,6 +56,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0005-longest-palindromic-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Pankaj49111/leetcode-journey/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Pankaj49111/leetcode-journey/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Pankaj49111/leetcode-journey/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Pankaj49111/leetcode-journey/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Pankaj49111/leetcode-journey/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
@@ -833,6 +835,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Pankaj49111/leetcode-journey/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/Pankaj49111/leetcode-journey/tree/master/0342-power-of-four) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0756-pyramid-transition-matrix) |
@@ -918,6 +921,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pankaj49111/leetcode-journey/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Pankaj49111/leetcode-journey/tree/master/0068-text-justification) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |

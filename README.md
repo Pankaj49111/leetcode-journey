@@ -839,6 +839,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0067-add-binary](https://github.com/Pankaj49111/leetcode-journey/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Pankaj49111/leetcode-journey/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/Pankaj49111/leetcode-journey/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Pankaj49111/leetcode-journey/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -903,6 +904,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0039-combination-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
+| [0401-binary-watch](https://github.com/Pankaj49111/leetcode-journey/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0756-pyramid-transition-matrix) |

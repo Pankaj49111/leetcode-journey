@@ -842,6 +842,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0190-reverse-bits](https://github.com/Pankaj49111/leetcode-journey/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/Pankaj49111/leetcode-journey/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Pankaj49111/leetcode-journey/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Pankaj49111/leetcode-journey/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |

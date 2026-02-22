@@ -845,6 +845,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0693-binary-number-with-alternating-bits](https://github.com/Pankaj49111/leetcode-journey/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0756-pyramid-transition-matrix) |
+| [0868-binary-gap](https://github.com/Pankaj49111/leetcode-journey/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |

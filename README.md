@@ -87,6 +87,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pankaj49111/leetcode-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1483-rank-teams-by-votes](https://github.com/Pankaj49111/leetcode-journey/tree/master/1483-rank-teams-by-votes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Pankaj49111/leetcode-journey/tree/master/1720-crawler-log-folder) |
@@ -336,6 +337,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pankaj49111/leetcode-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1483-rank-teams-by-votes](https://github.com/Pankaj49111/leetcode-journey/tree/master/1483-rank-teams-by-votes) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -850,6 +852,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0868-binary-gap](https://github.com/Pankaj49111/leetcode-journey/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2529-range-product-queries-of-powers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -992,4 +995,12 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Pankaj49111/leetcode-journey/tree/master/0130-surrounded-regions) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->

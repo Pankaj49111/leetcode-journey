@@ -87,6 +87,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pankaj49111/leetcode-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1483-rank-teams-by-votes](https://github.com/Pankaj49111/leetcode-journey/tree/master/1483-rank-teams-by-votes) |
@@ -862,6 +863,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pankaj49111/leetcode-journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2529-range-product-queries-of-powers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2529-range-product-queries-of-powers) |
@@ -946,6 +948,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0067-add-binary](https://github.com/Pankaj49111/leetcode-journey/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Pankaj49111/leetcode-journey/tree/master/0068-text-justification) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Pankaj49111/leetcode-journey/tree/master/2073-time-needed-to-buy-tickets) |

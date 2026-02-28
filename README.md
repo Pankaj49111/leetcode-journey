@@ -25,6 +25,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pankaj49111/leetcode-journey/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1686-stone-game-vi](https://github.com/Pankaj49111/leetcode-journey/tree/master/1686-stone-game-vi) |
 | [1728-fancy-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/1728-fancy-sequence) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Pankaj49111/leetcode-journey/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -869,6 +870,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pankaj49111/leetcode-journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2529-range-product-queries-of-powers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -954,6 +956,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0068-text-justification](https://github.com/Pankaj49111/leetcode-journey/tree/master/0068-text-justification) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/1441-build-an-array-with-stack-operations) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Pankaj49111/leetcode-journey/tree/master/2073-time-needed-to-buy-tickets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |

@@ -93,6 +93,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1483-rank-teams-by-votes](https://github.com/Pankaj49111/leetcode-journey/tree/master/1483-rank-teams-by-votes) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Pankaj49111/leetcode-journey/tree/master/1720-crawler-log-folder) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -297,6 +298,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pankaj49111/leetcode-journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1686-stone-game-vi](https://github.com/Pankaj49111/leetcode-journey/tree/master/1686-stone-game-vi) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Pankaj49111/leetcode-journey/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pankaj49111/leetcode-journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Pankaj49111/leetcode-journey/tree/master/1710-find-servers-that-handled-most-number-of-requests) |

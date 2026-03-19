@@ -259,6 +259,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pankaj49111/leetcode-journey/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Pankaj49111/leetcode-journey/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pankaj49111/leetcode-journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -765,6 +766,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pankaj49111/leetcode-journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pankaj49111/leetcode-journey/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3797-design-spreadsheet](https://github.com/Pankaj49111/leetcode-journey/tree/master/3797-design-spreadsheet) |
 ## Graph
@@ -914,6 +916,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2529-range-product-queries-of-powers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pankaj49111/leetcode-journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Pankaj49111/leetcode-journey/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |

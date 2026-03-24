@@ -255,6 +255,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Pankaj49111/leetcode-journey/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pankaj49111/leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2906-construct-product-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Pankaj49111/leetcode-journey/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Pankaj49111/leetcode-journey/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -774,6 +775,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2625-increment-submatrices-by-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/2625-increment-submatrices-by-one) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pankaj49111/leetcode-journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -926,6 +928,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2504-find-all-good-indices](https://github.com/Pankaj49111/leetcode-journey/tree/master/2504-find-all-good-indices) |
 | [2529-range-product-queries-of-powers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pankaj49111/leetcode-journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3535-find-the-count-of-monotonic-pairs-i) |

@@ -275,6 +275,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/Pankaj49111/leetcode-journey/tree/master/3606-coupon-code-validator) |
@@ -372,6 +373,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3606-coupon-code-validator](https://github.com/Pankaj49111/leetcode-journey/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Pankaj49111/leetcode-journey/tree/master/3678-design-task-manager) |
@@ -746,6 +748,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3713-longest-balanced-substring-i) |
 ## Matrix
 |  |
@@ -781,6 +784,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pankaj49111/leetcode-journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pankaj49111/leetcode-journey/tree/master/3643-flip-square-submatrix-vertically) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pankaj49111/leetcode-journey/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -936,6 +940,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pankaj49111/leetcode-journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Pankaj49111/leetcode-journey/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3714-longest-balanced-substring-ii) |

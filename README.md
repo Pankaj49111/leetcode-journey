@@ -110,6 +110,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2317-count-collisions-on-a-road](https://github.com/Pankaj49111/leetcode-journey/tree/master/2317-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Pankaj49111/leetcode-journey/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/Pankaj49111/leetcode-journey/tree/master/2573-find-the-string-with-lcp) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -249,6 +250,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2504-find-all-good-indices](https://github.com/Pankaj49111/leetcode-journey/tree/master/2504-find-all-good-indices) |
 | [2529-range-product-queries-of-powers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2529-range-product-queries-of-powers) |
+| [2573-find-the-string-with-lcp](https://github.com/Pankaj49111/leetcode-journey/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
@@ -320,6 +322,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1927-sum-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/1975-maximum-matrix-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2573-find-the-string-with-lcp](https://github.com/Pankaj49111/leetcode-journey/tree/master/2573-find-the-string-with-lcp) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pankaj49111/leetcode-journey/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -734,6 +737,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Pankaj49111/leetcode-journey/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2504-find-all-good-indices](https://github.com/Pankaj49111/leetcode-journey/tree/master/2504-find-all-good-indices) |
+| [2573-find-the-string-with-lcp](https://github.com/Pankaj49111/leetcode-journey/tree/master/2573-find-the-string-with-lcp) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
@@ -779,6 +783,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1975-maximum-matrix-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pankaj49111/leetcode-journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/Pankaj49111/leetcode-journey/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/2625-increment-submatrices-by-one) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1059,6 +1064,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Pankaj49111/leetcode-journey/tree/master/0130-surrounded-regions) |
+| [2573-find-the-string-with-lcp](https://github.com/Pankaj49111/leetcode-journey/tree/master/2573-find-the-string-with-lcp) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Rolling Hash
 |  |

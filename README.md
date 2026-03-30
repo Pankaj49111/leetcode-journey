@@ -112,6 +112,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2483-minimum-penalty-for-a-shop](https://github.com/Pankaj49111/leetcode-journey/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2573-find-the-string-with-lcp](https://github.com/Pankaj49111/leetcode-journey/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -375,6 +376,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2174-next-greater-numerically-balanced-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Pankaj49111/leetcode-journey/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -600,6 +602,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2092-find-all-people-with-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2092-find-all-people-with-secret) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pankaj49111/leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pankaj49111/leetcode-journey/tree/master/3074-apple-redistribution-into-boxes) |

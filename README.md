@@ -119,6 +119,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3396-valid-word](https://github.com/Pankaj49111/leetcode-journey/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3606-coupon-code-validator](https://github.com/Pankaj49111/leetcode-journey/tree/master/3606-coupon-code-validator) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3713-longest-balanced-substring-i) |
@@ -331,6 +332,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3074-apple-redistribution-into-boxes](https://github.com/Pankaj49111/leetcode-journey/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Pankaj49111/leetcode-journey/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
@@ -1078,4 +1080,8 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->

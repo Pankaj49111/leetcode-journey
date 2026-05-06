@@ -79,6 +79,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0583-delete-operation-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/Pankaj49111/leetcode-journey/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -310,6 +311,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0410-split-array-largest-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/Pankaj49111/leetcode-journey/tree/master/0763-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -360,6 +362,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0621-task-scheduler](https://github.com/Pankaj49111/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0697-degree-of-an-array) |
 | [0756-pyramid-transition-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/Pankaj49111/leetcode-journey/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Pankaj49111/leetcode-journey/tree/master/0782-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -575,6 +578,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0165-compare-version-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0344-reverse-string) |
+| [0763-partition-labels](https://github.com/Pankaj49111/leetcode-journey/tree/master/0763-partition-labels) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pankaj49111/leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pankaj49111/leetcode-journey/tree/master/3643-flip-square-submatrix-vertically) |

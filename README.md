@@ -539,6 +539,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1382-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Pankaj49111/leetcode-journey/tree/master/1753-path-with-minimum-effort) |
@@ -643,6 +644,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Pankaj49111/leetcode-journey/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -664,6 +666,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Pankaj49111/leetcode-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -687,6 +690,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 ## Binary Search

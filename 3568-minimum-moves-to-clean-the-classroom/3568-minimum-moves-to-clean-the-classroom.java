@@ -28,15 +28,14 @@ class Solution {
         // -1 means this cell is not litter.
         int[][] litterId = new int[m][n];
 
-        for (int[] row : litterId) Arrays.fill(row, -1);
-
         int litterCount = 0;
 
         // Find S and give every L an ID.
         for (int r = 0; r < m; r++) {
             for (int c = 0; c < n; c++) {
-                char ch = classroom[r].charAt(c);
+                litterId[r][c] = -1;
 
+                char ch = classroom[r].charAt(c);
                 if (ch == 'S') {
                     startRow = r;
                     startCol = c;

@@ -18,13 +18,11 @@ class Solution {
         Arrays.sort(pArr);
 
         for(int i=0; i<=m-n; i++){
-            if(p.indexOf(s.charAt(i)) != -1){
-                char[] sub = s.substring(i, i+n).toCharArray();
-                Arrays.sort(sub);
+            char[] sub = s.substring(i, i+n).toCharArray();
+            Arrays.sort(sub);
 
-                if(Arrays.equals(pArr, sub)){
-                    res.add(i);
-                }
+            if(Arrays.equals(pArr, sub)){
+                res.add(i);
             }
         }
         return res;

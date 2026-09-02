@@ -106,6 +106,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1751-slowest-key](https://github.com/Pankaj49111/leetcode-journey/tree/master/1751-slowest-key) |
 | [1927-sum-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/1927-sum-game) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pankaj49111/leetcode-journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Pankaj49111/leetcode-journey/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Pankaj49111/leetcode-journey/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -384,6 +385,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Pankaj49111/leetcode-journey/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Pankaj49111/leetcode-journey/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pankaj49111/leetcode-journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2023-design-movie-rental-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2023-design-movie-rental-system) |
 | [2034-stock-price-fluctuation](https://github.com/Pankaj49111/leetcode-journey/tree/master/2034-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/Pankaj49111/leetcode-journey/tree/master/2169-simple-bank-system) |
@@ -908,6 +910,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Pankaj49111/leetcode-journey/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pankaj49111/leetcode-journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1483-rank-teams-by-votes](https://github.com/Pankaj49111/leetcode-journey/tree/master/1483-rank-teams-by-votes) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pankaj49111/leetcode-journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Pankaj49111/leetcode-journey/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3713-longest-balanced-substring-i) |

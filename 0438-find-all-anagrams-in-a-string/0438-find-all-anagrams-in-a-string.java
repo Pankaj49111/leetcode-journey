@@ -1,30 +1,36 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
+        List<Integer> res = new ArrayList<>();
         int n = p.length();
         int m = s.length();
-        List<Integer> res = new ArrayList<>();
-        if(n == m){
-            char[] sArr = s.toCharArray();
-            char[] pArr = p.toCharArray();
+        if (n > m) {
+            return res;
+        }
 
-            Arrays.sort(sArr); Arrays.sort(pArr);
-            if(Arrays.equals(sArr, pArr)){
-                res.add(0);
-                return res;
+        int[] pFreq = new int[26];
+        int[] windowFreq = new int[26];
+
+        for (char c : p.toCharArray()) {
+            pFreq[c - 'a']++;
+        }
+
+        for (int i = 0; i < n; i++) {
+            windowFreq[s.charAt(i) - 'a']++;
+        }
+
+        if (Arrays.equals(pFreq, windowFreq)) {
+            res.add(0);
+        }
+
+        for (int i = n; i < m; i++) {
+            windowFreq[s.charAt(i) - 'a']++;
+            windowFreq[s.charAt(i - n) - 'a']--;
+
+            if (Arrays.equals(pFreq, windowFreq)) {
+                res.add(i - n + 1);
             }
         }
 
-        char[] pArr = p.toCharArray();
-        Arrays.sort(pArr);
-
-        for(int i=0; i<=m-n; i++){
-            char[] sub = s.substring(i, i+n).toCharArray();
-            Arrays.sort(sub);
-
-            if(Arrays.equals(pArr, sub)){
-                res.add(i);
-            }
-        }
         return res;
     }
 }

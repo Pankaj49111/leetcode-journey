@@ -1,34 +1,32 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        List<Integer> list = new ArrayList<>();
-        if(p.length() > s.length()) return list;
+        int n = p.length();
+        int m = s.length();
+        List<Integer> res = new ArrayList<>();
+        if(n == m){
+            char[] sArr = s.toCharArray();
+            char[] pArr = p.toCharArray();
 
-        Map<Character, Integer> sMap = new HashMap<>();
-        Map<Character, Integer> pMap = new HashMap<>();
-
-        for(int i=0; i<p.length(); i++){
-            sMap.put(s.charAt(i), sMap.getOrDefault(s.charAt(i),0)+1);
-            pMap.put(p.charAt(i), pMap.getOrDefault(p.charAt(i),0)+1);
-        }
-
-        if(sMap.equals(pMap)) list.add(0);
-
-        int j=0, k=p.length();
-        while(k < s.length()){
-            char ch1 = s.charAt(k++);
-            sMap.put(ch1, sMap.getOrDefault(ch1,0)+1);
-
-            char ch2 = s.charAt(j++);
-            sMap.put(ch2, sMap.get(ch2)-1);
-
-            if(sMap.get(ch2) == 0){
-                sMap.remove(ch2);
-            }
-
-            if(sMap.equals(pMap)){
-                list.add(j);
+            Arrays.sort(sArr); Arrays.sort(pArr);
+            if(Arrays.equals(sArr, pArr)){
+                res.add(0);
+                return res;
             }
         }
-        return list;
+
+        char[] pArr = p.toCharArray();
+        Arrays.sort(pArr);
+
+        for(int i=0; i<=m-n; i++){
+            if(p.indexOf(s.charAt(i)) != -1){
+                char[] sub = s.substring(i, i+n).toCharArray();
+                Arrays.sort(sub);
+
+                if(Arrays.equals(pArr, sub)){
+                    res.add(i);
+                }
+            }
+        }
+        return res;
     }
 }

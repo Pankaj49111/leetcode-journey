@@ -1,14 +1,15 @@
 class Solution {
     public boolean areOccurrencesEqual(String s) {
-        Map<Character, Integer> freq = new HashMap<>();
-        for(char c: s.toCharArray()){
-            freq.put(c, freq.getOrDefault(c,0)+1);
+        int[] freq = new int[26];
+        for (char c : s.toCharArray()) {
+            freq[c - 'a']++;
         }
 
-        int val = freq.get(s.charAt(0));
-
-        for(char c: freq.keySet()){
-            if(freq.get(c) != val) return false;
+        int val = freq[s.charAt(0) - 'a'];
+        for (int f : freq) {
+            if (f != 0 && f != val) {
+                return false;
+            }
         }
         return true;
     }

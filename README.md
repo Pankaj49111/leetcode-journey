@@ -53,6 +53,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Pankaj49111/leetcode-journey/tree/master/3830-find-closest-person) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -302,6 +303,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3797-design-spreadsheet](https://github.com/Pankaj49111/leetcode-journey/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Pankaj49111/leetcode-journey/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |

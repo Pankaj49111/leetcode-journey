@@ -306,6 +306,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3827-implement-router](https://github.com/Pankaj49111/leetcode-journey/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -990,6 +991,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Pankaj49111/leetcode-journey/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3721-longest-balanced-subarray-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3904-smallest-stable-index-ii) |
 ## Queue
 |  |
 | ------- |

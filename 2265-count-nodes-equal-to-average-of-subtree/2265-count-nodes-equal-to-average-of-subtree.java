@@ -15,43 +15,32 @@
  */
 class Solution {
     class Result {
-        int root;
         int sum;
         int count;
-        Result(int root, int sum, int count){
-            this.root = root;
+        Result(int sum, int count){
             this.sum = sum;
             this.count = count;
         }
     }
+
+    int result=0;
     public int averageOfSubtree(TreeNode root) {
-        if(root == null){
-            return 0;
-        }
-
-        List<Result> res = new ArrayList<>();
-        dfs(root, res);
-
-        int cnt=0;
-
-        for(Result r: res){
-            if(r.root == (r.sum / r.count)) cnt++;
-        }
-        return cnt;
+        dfs(root);
+        return result;
     }
 
-    Result dfs(TreeNode root, List<Result> res){
+    Result dfs(TreeNode root){
         if(root == null){
-            return new Result(0,0,0);
+            return new Result(0,0);
         }
 
-        Result left = dfs(root.left, res);
-        Result right = dfs(root.right, res);
+        Result left = dfs(root.left);
+        Result right = dfs(root.right);
 
         int sum = root.val + left.sum + right.sum;
         int count = 1 + left.count + right.count;
-        Result response = new Result(root.val, sum,count);
-        res.add(response);
-        return response;
+
+        if(root.val == (sum/count)) result++;
+        return new Result(sum, count);
     }
 }

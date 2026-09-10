@@ -553,6 +553,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1753-path-with-minimum-effort](https://github.com/Pankaj49111/leetcode-journey/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pankaj49111/leetcode-journey/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2092-find-all-people-with-secret) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj49111/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Pankaj49111/leetcode-journey/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Trie
 |  |
@@ -655,6 +656,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj49111/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Pankaj49111/leetcode-journey/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
@@ -702,6 +704,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj49111/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
 | ------- |

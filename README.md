@@ -124,6 +124,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/Pankaj49111/leetcode-journey/tree/master/3606-coupon-code-validator) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3713-longest-balanced-substring-i) |
@@ -1057,6 +1058,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2751-robot-collisions](https://github.com/Pankaj49111/leetcode-journey/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pankaj49111/leetcode-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3498-reverse-degree-of-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |

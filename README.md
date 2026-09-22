@@ -148,6 +148,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0039-combination-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Pankaj49111/leetcode-journey/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Pankaj49111/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Pankaj49111/leetcode-journey/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Pankaj49111/leetcode-journey/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Pankaj49111/leetcode-journey/tree/master/0068-text-justification) |
@@ -742,6 +743,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Pankaj49111/leetcode-journey/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Pankaj49111/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Pankaj49111/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Pankaj49111/leetcode-journey/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Pankaj49111/leetcode-journey/tree/master/0085-maximal-rectangle) |
@@ -879,6 +881,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pankaj49111/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Pankaj49111/leetcode-journey/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |

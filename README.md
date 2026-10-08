@@ -17,6 +17,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0679-24-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0679-24-game) |
 | [0840-magic-squares-in-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0877-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Pankaj49111/leetcode-journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Pankaj49111/leetcode-journey/tree/master/1390-four-divisors) |
@@ -193,6 +194,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0713-subarray-product-less-than-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Pankaj49111/leetcode-journey/tree/master/0739-daily-temperatures) |
 | [0840-magic-squares-in-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0877-stone-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0940-fruit-into-baskets) |
@@ -765,6 +767,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Pankaj49111/leetcode-journey/tree/master/0799-champagne-tower) |
 | [0867-new-21-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pankaj49111/leetcode-journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pankaj49111/leetcode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1078,6 +1081,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0877-stone-game) |
 | [1686-stone-game-vi](https://github.com/Pankaj49111/leetcode-journey/tree/master/1686-stone-game-vi) |
 | [1927-sum-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3462-vowels-game-in-a-string) |
@@ -1137,4 +1141,12 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Pankaj49111/leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pankaj49111/leetcode-journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

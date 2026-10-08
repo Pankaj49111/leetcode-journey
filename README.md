@@ -89,6 +89,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0981-delete-columns-to-make-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Pankaj49111/leetcode-journey/tree/master/0990-satisfiability-of-equality-equations) |
 | [1006-vowel-spellchecker](https://github.com/Pankaj49111/leetcode-journey/tree/master/1006-vowel-spellchecker) |
+| [1021-remove-outermost-parentheses](https://github.com/Pankaj49111/leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -483,6 +484,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0316-remove-duplicate-letters](https://github.com/Pankaj49111/leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0636-exclusive-time-of-functions](https://github.com/Pankaj49111/leetcode-journey/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Pankaj49111/leetcode-journey/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/Pankaj49111/leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/1441-build-an-array-with-stack-operations) |
@@ -1131,4 +1133,8 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3474-lexicographically-smallest-generated-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Pankaj49111/leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

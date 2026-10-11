@@ -80,6 +80,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0520-detect-capital](https://github.com/Pankaj49111/leetcode-journey/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/Pankaj49111/leetcode-journey/tree/master/0763-partition-labels) |
@@ -600,6 +601,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Pankaj49111/leetcode-journey/tree/master/0763-partition-labels) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pankaj49111/leetcode-journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pankaj49111/leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -765,6 +767,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0410-split-array-largest-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pankaj49111/leetcode-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Pankaj49111/leetcode-journey/tree/master/0799-champagne-tower) |

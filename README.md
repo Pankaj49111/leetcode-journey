@@ -428,6 +428,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Pankaj49111/leetcode-journey/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Pankaj49111/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
@@ -489,6 +490,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0085-maximal-rectangle](https://github.com/Pankaj49111/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Pankaj49111/leetcode-journey/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Pankaj49111/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Pankaj49111/leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0636-exclusive-time-of-functions](https://github.com/Pankaj49111/leetcode-journey/tree/master/0636-exclusive-time-of-functions) |

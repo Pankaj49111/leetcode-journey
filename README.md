@@ -309,6 +309,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pankaj49111/leetcode-journey/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Pankaj49111/leetcode-journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Pankaj49111/leetcode-journey/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pankaj49111/leetcode-journey/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -989,6 +990,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pankaj49111/leetcode-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Pankaj49111/leetcode-journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pankaj49111/leetcode-journey/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Segment Tree

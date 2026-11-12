@@ -173,6 +173,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Pankaj49111/leetcode-journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Pankaj49111/leetcode-journey/tree/master/0238-product-of-array-except-self) |
@@ -459,6 +460,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj49111/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -740,6 +742,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0033-search-in-rotated-sorted-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pankaj49111/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0354-russian-doll-envelopes) |
@@ -1011,6 +1014,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Pankaj49111/leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0525-contiguous-array) |

@@ -378,6 +378,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0049-group-anagrams](https://github.com/Pankaj49111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Pankaj49111/leetcode-journey/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj49111/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
@@ -439,6 +440,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Pankaj49111/leetcode-journey/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Pankaj49111/leetcode-journey/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Pankaj49111/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
@@ -600,6 +602,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0092-reverse-linked-list-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Pankaj49111/leetcode-journey/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Pankaj49111/leetcode-journey/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0432-all-oone-data-structure) |
@@ -1088,6 +1091,7 @@ This repository contains my accepted LeetCode Java submissions.
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Pankaj49111/leetcode-journey/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0432-all-oone-data-structure) |
 ## Memoization
 |  |

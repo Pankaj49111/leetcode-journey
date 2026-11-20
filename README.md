@@ -1177,6 +1177,7 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Pankaj49111/leetcode-journey/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/0200-number-of-islands) |
 | [2573-find-the-string-with-lcp](https://github.com/Pankaj49111/leetcode-journey/tree/master/2573-find-the-string-with-lcp) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Rolling Hash

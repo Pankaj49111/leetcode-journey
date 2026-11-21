@@ -223,6 +223,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1046-last-stone-weight](https://github.com/Pankaj49111/leetcode-journey/tree/master/1046-last-stone-weight) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Pankaj49111/leetcode-journey/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Pankaj49111/leetcode-journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Pankaj49111/leetcode-journey/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Pankaj49111/leetcode-journey/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -579,6 +580,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Pankaj49111/leetcode-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1382-balance-a-binary-search-tree) |
@@ -719,6 +721,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1036-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Pankaj49111/leetcode-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pankaj49111/leetcode-journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -863,6 +866,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0994-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/1036-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Pankaj49111/leetcode-journey/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1314-matrix-block-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1181,6 +1185,7 @@ This repository contains my accepted LeetCode Java submissions.
 | ------- |
 | [0130-surrounded-regions](https://github.com/Pankaj49111/leetcode-journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [2573-find-the-string-with-lcp](https://github.com/Pankaj49111/leetcode-journey/tree/master/2573-find-the-string-with-lcp) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Rolling Hash

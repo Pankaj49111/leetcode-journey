@@ -213,6 +213,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Pankaj49111/leetcode-journey/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Pankaj49111/leetcode-journey/tree/master/0990-satisfiability-of-equality-equations) |
+| [0994-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Pankaj49111/leetcode-journey/tree/master/1006-vowel-spellchecker) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pankaj49111/leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/Pankaj49111/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
@@ -714,6 +715,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0744-network-delay-time](https://github.com/Pankaj49111/leetcode-journey/tree/master/0744-network-delay-time) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/Pankaj49111/leetcode-journey/tree/master/0886-possible-bipartition) |
+| [0994-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Pankaj49111/leetcode-journey/tree/master/1202-smallest-string-with-swaps) |
@@ -858,6 +860,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj49111/leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Pankaj49111/leetcode-journey/tree/master/0840-magic-squares-in-grid) |
+| [0994-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1022-unique-paths-iii](https://github.com/Pankaj49111/leetcode-journey/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Pankaj49111/leetcode-journey/tree/master/1036-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Pankaj49111/leetcode-journey/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |

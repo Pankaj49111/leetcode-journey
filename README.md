@@ -125,6 +125,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2887-sort-vowels-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Pankaj49111/leetcode-journey/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pankaj49111/leetcode-journey/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3396-valid-word](https://github.com/Pankaj49111/leetcode-journey/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/3462-vowels-game-in-a-string) |
@@ -304,6 +305,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pankaj49111/leetcode-journey/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3453-separate-squares-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -425,6 +427,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pankaj49111/leetcode-journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Pankaj49111/leetcode-journey/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pankaj49111/leetcode-journey/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pankaj49111/leetcode-journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -593,6 +596,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [2092-find-all-people-with-secret](https://github.com/Pankaj49111/leetcode-journey/tree/master/2092-find-all-people-with-secret) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj49111/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Pankaj49111/leetcode-journey/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pankaj49111/leetcode-journey/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Trie
 |  |
 | ------- |
@@ -702,6 +706,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [1731-even-odd-tree](https://github.com/Pankaj49111/leetcode-journey/tree/master/1731-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj49111/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Pankaj49111/leetcode-journey/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pankaj49111/leetcode-journey/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |

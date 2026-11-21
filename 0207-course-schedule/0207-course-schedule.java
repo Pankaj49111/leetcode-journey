@@ -1,33 +1,31 @@
 class Solution {
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
+    public boolean canFinish(int numCourses, int[][] prereq) {
         List<List<Integer>> graph = new ArrayList<>();
-        int[] inDegree = new int[numCourses];
+        int[] inDeg = new int[numCourses];
 
-        // Build graph and indegree
-        for (int i = 0; i < numCourses; i++) graph.add(new ArrayList<>());
-        for (int[] pre : prerequisites) {
+        for(int i=0; i<numCourses; i++) graph.add(new ArrayList<>());
+
+        for(int[] pre: prereq){
             graph.get(pre[1]).add(pre[0]);
-            inDegree[pre[0]]++;
-        }
-        
-        Queue<Integer> queue = new LinkedList<>();
-        for (int i = 0; i < numCourses; i++) {
-            if (inDegree[i] == 0) queue.offer(i);
+            inDeg[pre[0]]++;
         }
 
-        int taken = 0; // count of courses we can take
-        while (!queue.isEmpty()) {
-            int course = queue.poll();
-            taken++;
+        Queue<Integer> q = new ArrayDeque<>();
+        for(int i=0; i<numCourses; i++){
+            if(inDeg[i] == 0) q.offer(i);
+        }
 
-            for (int nei : graph.get(course)) {
-                inDegree[nei]--;
-                if (inDegree[nei] == 0) {
-                    queue.offer(nei);
-                }
+        int count=0;
+        while(!q.isEmpty()){
+            int course = q.poll();
+            count++;
+
+            for(int neigh: graph.get(course)){
+                inDeg[neigh]--;
+
+                if(inDeg[neigh] == 0) q.offer(neigh);
             }
         }
-
-        return taken == numCourses;
+        return count == numCourses;
     }
 }

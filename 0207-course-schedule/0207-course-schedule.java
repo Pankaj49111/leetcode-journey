@@ -10,7 +10,7 @@ class Solution {
             inDeg[pre[0]]++;
         }
 
-        Queue<Integer> q = new ArrayDeque<>();
+        Queue<Integer> q = new LinkedList<>();
         for(int i=0; i<numCourses; i++){
             if(inDeg[i] == 0) q.offer(i);
         }

@@ -192,6 +192,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0380-insert-delete-getrandom-o1](https://github.com/Pankaj49111/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Pankaj49111/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Pankaj49111/leetcode-journey/tree/master/0474-ones-and-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0605-can-place-flowers) |
@@ -393,6 +394,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0432-all-oone-data-structure](https://github.com/Pankaj49111/leetcode-journey/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pankaj49111/leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Pankaj49111/leetcode-journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Pankaj49111/leetcode-journey/tree/master/0567-permutation-in-string) |
@@ -517,6 +519,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0155-min-stack](https://github.com/Pankaj49111/leetcode-journey/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Pankaj49111/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Pankaj49111/leetcode-journey/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/Pankaj49111/leetcode-journey/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Pankaj49111/leetcode-journey/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Pankaj49111/leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
@@ -936,6 +939,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0084-largest-rectangle-in-histogram](https://github.com/Pankaj49111/leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Pankaj49111/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Pankaj49111/leetcode-journey/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Pankaj49111/leetcode-journey/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Pankaj49111/leetcode-journey/tree/master/1159-smallest-subsequence-of-distinct-characters) |

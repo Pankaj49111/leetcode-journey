@@ -67,6 +67,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0072-edit-distance](https://github.com/Pankaj49111/leetcode-journey/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Pankaj49111/leetcode-journey/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Pankaj49111/leetcode-journey/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/Pankaj49111/leetcode-journey/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Pankaj49111/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0205-isomorphic-strings) |
@@ -381,6 +382,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0037-sudoku-solver](https://github.com/Pankaj49111/leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Pankaj49111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Pankaj49111/leetcode-journey/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Pankaj49111/leetcode-journey/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Pankaj49111/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Pankaj49111/leetcode-journey/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Pankaj49111/leetcode-journey/tree/master/0205-isomorphic-strings) |
@@ -714,6 +716,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [0102-binary-tree-level-order-traversal](https://github.com/Pankaj49111/leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pankaj49111/leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0127-word-ladder](https://github.com/Pankaj49111/leetcode-journey/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Pankaj49111/leetcode-journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pankaj49111/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pankaj49111/leetcode-journey/tree/master/0207-course-schedule) |
@@ -1229,4 +1232,8 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Pankaj49111/leetcode-journey/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Pankaj49111/leetcode-journey/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

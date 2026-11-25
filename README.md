@@ -333,6 +333,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pankaj49111/leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Pankaj49111/leetcode-journey/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -446,6 +447,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3827-implement-router](https://github.com/Pankaj49111/leetcode-journey/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pankaj49111/leetcode-journey/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pankaj49111/leetcode-journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/Pankaj49111/leetcode-journey/tree/master/3934-smallest-unique-subarray) |
 ## Design
 |  |
 | ------- |
@@ -798,6 +800,7 @@ This repository contains my accepted LeetCode Java submissions.
 | [3454-separate-squares-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3454-separate-squares-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Pankaj49111/leetcode-journey/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3827-implement-router](https://github.com/Pankaj49111/leetcode-journey/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/Pankaj49111/leetcode-journey/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1207,10 +1210,12 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/Pankaj49111/leetcode-journey/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pankaj49111/leetcode-journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/Pankaj49111/leetcode-journey/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -1240,4 +1245,8 @@ This repository contains my accepted LeetCode Java submissions.
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Pankaj49111/leetcode-journey/tree/master/0127-word-ladder) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Pankaj49111/leetcode-journey/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
